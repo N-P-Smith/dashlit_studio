@@ -1,0 +1,4649 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.5072
+                ]
+            },
+            "properties": {
+                "city": "London",
+                "country": "United Kingdom",
+                "admin_name": "London, City of",
+                "capital": "primary",
+                "population": 11262000,
+                "population_proper": 8825001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9025,
+                    52.48
+                ]
+            },
+            "properties": {
+                "city": "Birmingham",
+                "country": "United Kingdom",
+                "admin_name": "Birmingham",
+                "capital": "",
+                "population": 2919600,
+                "population_proper": 1137100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0872,
+                    50.8058
+                ]
+            },
+            "properties": {
+                "city": "Portsmouth",
+                "country": "United Kingdom",
+                "admin_name": "Portsmouth",
+                "capital": "",
+                "population": 855679,
+                "population_proper": 248440
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4042,
+                    50.9025
+                ]
+            },
+            "properties": {
+                "city": "Southampton",
+                "country": "United Kingdom",
+                "admin_name": "Southampton",
+                "capital": "",
+                "population": 855569,
+                "population_proper": 271173
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1512,
+                    52.9561
+                ]
+            },
+            "properties": {
+                "city": "Nottingham",
+                "country": "United Kingdom",
+                "admin_name": "Nottingham",
+                "capital": "",
+                "population": 729977,
+                "population_proper": 289301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5975,
+                    51.4536
+                ]
+            },
+            "properties": {
+                "city": "Bristol",
+                "country": "United Kingdom",
+                "admin_name": "Bristol, City of",
+                "capital": "",
+                "population": 707412,
+                "population_proper": 472465
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2452,
+                    53.479
+                ]
+            },
+            "properties": {
+                "city": "Manchester",
+                "country": "United Kingdom",
+                "admin_name": "Manchester",
+                "capital": "",
+                "population": 547627,
+                "population_proper": 547627
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9785,
+                    53.4094
+                ]
+            },
+            "properties": {
+                "city": "Liverpool",
+                "country": "United Kingdom",
+                "admin_name": "Liverpool",
+                "capital": "",
+                "population": 513441,
+                "population_proper": 513441
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1319,
+                    52.6344
+                ]
+            },
+            "properties": {
+                "city": "Leicester",
+                "country": "United Kingdom",
+                "admin_name": "Leicester",
+                "capital": "",
+                "population": 508916,
+                "population_proper": 464395
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3714,
+                    50.8147
+                ]
+            },
+            "properties": {
+                "city": "Worthing",
+                "country": "United Kingdom",
+                "admin_name": "West Sussex",
+                "capital": "",
+                "population": 474485,
+                "population_proper": 109120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5106,
+                    52.4081
+                ]
+            },
+            "properties": {
+                "city": "Coventry",
+                "country": "United Kingdom",
+                "admin_name": "Coventry",
+                "capital": "",
+                "population": 362690,
+                "population_proper": 362690
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.93,
+                    54.5964
+                ]
+            },
+            "properties": {
+                "city": "Belfast",
+                "country": "United Kingdom",
+                "admin_name": "Belfast",
+                "capital": "",
+                "population": 345006,
+                "population_proper": 345006
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.75,
+                    53.8
+                ]
+            },
+            "properties": {
+                "city": "Bradford",
+                "country": "United Kingdom",
+                "admin_name": "Bradford",
+                "capital": "",
+                "population": 293277,
+                "population_proper": 293277
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.478,
+                    52.9247
+                ]
+            },
+            "properties": {
+                "city": "Derby",
+                "country": "United Kingdom",
+                "admin_name": "Derby",
+                "capital": "",
+                "population": 270468,
+                "population_proper": 255394
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1422,
+                    50.3714
+                ]
+            },
+            "properties": {
+                "city": "Plymouth",
+                "country": "United Kingdom",
+                "admin_name": "Plymouth",
+                "capital": "",
+                "population": 267918,
+                "population_proper": 267918
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1353,
+                    51.4947
+                ]
+            },
+            "properties": {
+                "city": "Westminster",
+                "country": "United Kingdom",
+                "admin_name": "Westminster",
+                "capital": "",
+                "population": 255324,
+                "population_proper": 255324
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1333,
+                    52.5833
+                ]
+            },
+            "properties": {
+                "city": "Wolverhampton",
+                "country": "United Kingdom",
+                "admin_name": "Wolverhampton",
+                "capital": "",
+                "population": 250970,
+                "population_proper": 250970
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8938,
+                    52.2304
+                ]
+            },
+            "properties": {
+                "city": "Northampton",
+                "country": "United Kingdom",
+                "admin_name": "Northamptonshire",
+                "capital": "",
+                "population": 245899,
+                "population_proper": 245899
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2928,
+                    52.6286
+                ]
+            },
+            "properties": {
+                "city": "Norwich",
+                "country": "United Kingdom",
+                "admin_name": "Norfolk",
+                "capital": "",
+                "population": 213166,
+                "population_proper": 195971
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4147,
+                    51.8783
+                ]
+            },
+            "properties": {
+                "city": "Luton",
+                "country": "United Kingdom",
+                "admin_name": "Luton",
+                "capital": "",
+                "population": 213052,
+                "population_proper": 213052
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.778,
+                    52.413
+                ]
+            },
+            "properties": {
+                "city": "Solihull",
+                "country": "United Kingdom",
+                "admin_name": "Solihull",
+                "capital": "",
+                "population": 206674,
+                "population_proper": 206674
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1027,
+                    51.544
+                ]
+            },
+            "properties": {
+                "city": "Islington",
+                "country": "United Kingdom",
+                "admin_name": "Islington",
+                "capital": "",
+                "population": 206125,
+                "population_proper": 206125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.11,
+                    57.15
+                ]
+            },
+            "properties": {
+                "city": "Aberdeen",
+                "country": "United Kingdom",
+                "admin_name": "Aberdeen City",
+                "capital": "",
+                "population": 200680,
+                "population_proper": 200680
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1099,
+                    51.3727
+                ]
+            },
+            "properties": {
+                "city": "Croydon",
+                "country": "United Kingdom",
+                "admin_name": "Croydon",
+                "capital": "",
+                "population": 192064,
+                "population_proper": 192064
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.88,
+                    50.72
+                ]
+            },
+            "properties": {
+                "city": "Bournemouth",
+                "country": "United Kingdom",
+                "admin_name": "",
+                "capital": "",
+                "population": 187503,
+                "population_proper": 187503
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.49,
+                    51.58
+                ]
+            },
+            "properties": {
+                "city": "Basildon",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 185900,
+                "population_proper": 185900
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.529,
+                    51.272
+                ]
+            },
+            "properties": {
+                "city": "Maidstone",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 176700,
+                "population_proper": 176700
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0858,
+                    51.5575
+                ]
+            },
+            "properties": {
+                "city": "Ilford",
+                "country": "United Kingdom",
+                "admin_name": "Redbridge",
+                "capital": "",
+                "population": 168168,
+                "population_proper": 168168
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.59,
+                    53.39
+                ]
+            },
+            "properties": {
+                "city": "Warrington",
+                "country": "United Kingdom",
+                "admin_name": "Warrington",
+                "capital": "",
+                "population": 165456,
+                "population_proper": 165456
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25,
+                    51.75
+                ]
+            },
+            "properties": {
+                "city": "Oxford",
+                "country": "United Kingdom",
+                "admin_name": "Oxfordshire",
+                "capital": "",
+                "population": 152000,
+                "population_proper": 152000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3464,
+                    51.5836
+                ]
+            },
+            "properties": {
+                "city": "Harrow",
+                "country": "United Kingdom",
+                "admin_name": "Harrow",
+                "capital": "",
+                "population": 149246,
+                "population_proper": 149246
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.995,
+                    52.519
+                ]
+            },
+            "properties": {
+                "city": "West Bromwich",
+                "country": "United Kingdom",
+                "admin_name": "Sandwell",
+                "capital": "",
+                "population": 146386,
+                "population_proper": 146386
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.25,
+                    51.8667
+                ]
+            },
+            "properties": {
+                "city": "Gloucester",
+                "country": "United Kingdom",
+                "admin_name": "Gloucestershire",
+                "capital": "",
+                "population": 145563,
+                "population_proper": 145563
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.08,
+                    53.96
+                ]
+            },
+            "properties": {
+                "city": "York",
+                "country": "United Kingdom",
+                "admin_name": "York",
+                "capital": "",
+                "population": 141685,
+                "population_proper": 141685
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0503,
+                    53.8142
+                ]
+            },
+            "properties": {
+                "city": "Blackpool",
+                "country": "United Kingdom",
+                "admin_name": "Blackpool",
+                "capital": "",
+                "population": 139305,
+                "population_proper": 139305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1494,
+                    53.4083
+                ]
+            },
+            "properties": {
+                "city": "Stockport",
+                "country": "United Kingdom",
+                "admin_name": "Stockport",
+                "capital": "",
+                "population": 137130,
+                "population_proper": 137130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.322,
+                    53.424
+                ]
+            },
+            "properties": {
+                "city": "Sale",
+                "country": "United Kingdom",
+                "admin_name": "Trafford",
+                "capital": "",
+                "population": 134022,
+                "population_proper": 134022
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0681,
+                    51.5975
+                ]
+            },
+            "properties": {
+                "city": "Tottenham",
+                "country": "United Kingdom",
+                "admin_name": "Haringey",
+                "capital": "",
+                "population": 129237,
+                "population_proper": 129237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1192,
+                    52.2053
+                ]
+            },
+            "properties": {
+                "city": "Cambridge",
+                "country": "United Kingdom",
+                "admin_name": "Cambridgeshire",
+                "capital": "",
+                "population": 123867,
+                "population_proper": 123867
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1801,
+                    51.5768
+                ]
+            },
+            "properties": {
+                "city": "Romford",
+                "country": "United Kingdom",
+                "admin_name": "Havering",
+                "capital": "",
+                "population": 122854,
+                "population_proper": 122854
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.903,
+                    51.8917
+                ]
+            },
+            "properties": {
+                "city": "Colchester",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 121859,
+                "population_proper": 121859
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7482,
+                    51.6287
+                ]
+            },
+            "properties": {
+                "city": "High Wycombe",
+                "country": "United Kingdom",
+                "admin_name": "Buckinghamshire",
+                "capital": "",
+                "population": 120256,
+                "population_proper": 120256
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6,
+                    54.9556
+                ]
+            },
+            "properties": {
+                "city": "Gateshead",
+                "country": "United Kingdom",
+                "admin_name": "Gateshead",
+                "capital": "",
+                "population": 120046,
+                "population_proper": 120046
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5881,
+                    51.5084
+                ]
+            },
+            "properties": {
+                "city": "Slough",
+                "country": "United Kingdom",
+                "admin_name": "Slough",
+                "capital": "",
+                "population": 119070,
+                "population_proper": 119070
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.482,
+                    53.748
+                ]
+            },
+            "properties": {
+                "city": "Blackburn",
+                "country": "United Kingdom",
+                "admin_name": "Blackburn with Darwen",
+                "capital": "",
+                "population": 117963,
+                "population_proper": 117963
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.48,
+                    51.73
+                ]
+            },
+            "properties": {
+                "city": "Chelmsford",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 115369,
+                "population_proper": 115369
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.16,
+                    53.61
+                ]
+            },
+            "properties": {
+                "city": "Rochdale",
+                "country": "United Kingdom",
+                "admin_name": "Rochdale",
+                "capital": "",
+                "population": 110194,
+                "population_proper": 110194
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.357,
+                    53.43
+                ]
+            },
+            "properties": {
+                "city": "Rotherham",
+                "country": "United Kingdom",
+                "admin_name": "Rotherham",
+                "capital": "",
+                "population": 109691,
+                "population_proper": 109691
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.021,
+                    51.584
+                ]
+            },
+            "properties": {
+                "city": "Walthamstow",
+                "country": "United Kingdom",
+                "admin_name": "Waltham Forest",
+                "capital": "",
+                "population": 109424,
+                "population_proper": 109424
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0876,
+                    51.2667
+                ]
+            },
+            "properties": {
+                "city": "Basingstoke",
+                "country": "United Kingdom",
+                "admin_name": "Hampshire",
+                "capital": "",
+                "population": 107355,
+                "population_proper": 107355
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2931,
+                    53.483
+                ]
+            },
+            "properties": {
+                "city": "Salford",
+                "country": "United Kingdom",
+                "admin_name": "Salford",
+                "capital": "",
+                "population": 103886,
+                "population_proper": 103886
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375,
+                    51.4668
+                ]
+            },
+            "properties": {
+                "city": "Hounslow",
+                "country": "United Kingdom",
+                "admin_name": "Hounslow",
+                "capital": "",
+                "population": 103337,
+                "population_proper": 103337
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2979,
+                    51.5528
+                ]
+            },
+            "properties": {
+                "city": "Wembley",
+                "country": "United Kingdom",
+                "admin_name": "Brent",
+                "capital": "",
+                "population": 102856,
+                "population_proper": 102856
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2206,
+                    52.1911
+                ]
+            },
+            "properties": {
+                "city": "Worcester",
+                "country": "United Kingdom",
+                "admin_name": "Worcestershire",
+                "capital": "",
+                "population": 101891,
+                "population_proper": 101891
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2229,
+                    51.4928
+                ]
+            },
+            "properties": {
+                "city": "Hammersmith",
+                "country": "United Kingdom",
+                "admin_name": "Hammersmith and Fulham",
+                "capital": "",
+                "population": 95996,
+                "population_proper": 95996
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6049,
+                    51.5864
+                ]
+            },
+            "properties": {
+                "city": "Rayleigh",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 95580,
+                "population_proper": 95580
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4692,
+                    51.7526
+                ]
+            },
+            "properties": {
+                "city": "Hemel Hempstead",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 94932,
+                "population_proper": 94932
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.36,
+                    51.38
+                ]
+            },
+            "properties": {
+                "city": "Bath",
+                "country": "United Kingdom",
+                "admin_name": "Bath and North East Somerset",
+                "capital": "",
+                "population": 94782,
+                "population_proper": 94782
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4211,
+                    51.5127
+                ]
+            },
+            "properties": {
+                "city": "Hayes",
+                "country": "United Kingdom",
+                "admin_name": "Hillingdon",
+                "capital": "",
+                "population": 93928,
+                "population_proper": 93928
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5526,
+                    54.527
+                ]
+            },
+            "properties": {
+                "city": "Darlington",
+                "country": "United Kingdom",
+                "admin_name": "Darlington",
+                "capital": "",
+                "population": 93015,
+                "population_proper": 93015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1758,
+                    50.8352
+                ]
+            },
+            "properties": {
+                "city": "Hove",
+                "country": "United Kingdom",
+                "admin_name": "Brighton and Hove",
+                "capital": "",
+                "population": 91900,
+                "population_proper": 91900
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.57,
+                    50.85
+                ]
+            },
+            "properties": {
+                "city": "Hastings",
+                "country": "United Kingdom",
+                "admin_name": "East Sussex",
+                "capital": "",
+                "population": 91053,
+                "population_proper": 91053
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3957,
+                    51.655
+                ]
+            },
+            "properties": {
+                "city": "Watford",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 90301,
+                "population_proper": 90301
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2019,
+                    51.9017
+                ]
+            },
+            "properties": {
+                "city": "Stevenage",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 89663,
+                "population_proper": 89663
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.21,
+                    54.69
+                ]
+            },
+            "properties": {
+                "city": "Hartlepool",
+                "country": "United Kingdom",
+                "admin_name": "Hartlepool",
+                "capital": "",
+                "population": 87995,
+                "population_proper": 87995
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.89,
+                    53.19
+                ]
+            },
+            "properties": {
+                "city": "Chester",
+                "country": "United Kingdom",
+                "admin_name": "Cheshire West and Chester",
+                "capital": "",
+                "population": 87507,
+                "population_proper": 87507
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.195,
+                    51.4828
+                ]
+            },
+            "properties": {
+                "city": "Fulham",
+                "country": "United Kingdom",
+                "admin_name": "Hammersmith and Fulham",
+                "capital": "",
+                "population": 87161,
+                "population_proper": 87161
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.468,
+                    52.523
+                ]
+            },
+            "properties": {
+                "city": "Nuneaton",
+                "country": "United Kingdom",
+                "admin_name": "Warwickshire",
+                "capital": "",
+                "population": 86552,
+                "population_proper": 86552
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2988,
+                    51.5175
+                ]
+            },
+            "properties": {
+                "city": "Ealing",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 85014,
+                "population_proper": 85014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8124,
+                    51.8168
+                ]
+            },
+            "properties": {
+                "city": "Aylesbury",
+                "country": "United Kingdom",
+                "admin_name": "Buckinghamshire",
+                "capital": "",
+                "population": 83407,
+                "population_proper": 83407
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0708,
+                    51.6154
+                ]
+            },
+            "properties": {
+                "city": "Edmonton",
+                "country": "United Kingdom",
+                "admin_name": "Enfield",
+                "capital": "",
+                "population": 82472,
+                "population_proper": 82472
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.336,
+                    51.755
+                ]
+            },
+            "properties": {
+                "city": "Saint Albans",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 82146,
+                "population_proper": 82146
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.248,
+                    53.789
+                ]
+            },
+            "properties": {
+                "city": "Burnley",
+                "country": "United Kingdom",
+                "admin_name": "Lancashire",
+                "capital": "",
+                "population": 82002,
+                "population_proper": 82002
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6356,
+                    53.7167
+                ]
+            },
+            "properties": {
+                "city": "Batley",
+                "country": "United Kingdom",
+                "admin_name": "Kirklees",
+                "capital": "",
+                "population": 80485,
+                "population_proper": 80485
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6502,
+                    53.5809
+                ]
+            },
+            "properties": {
+                "city": "Scunthorpe",
+                "country": "United Kingdom",
+                "admin_name": "North Lincolnshire",
+                "capital": "",
+                "population": 79977,
+                "population_proper": 79977
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.089,
+                    52.508
+                ]
+            },
+            "properties": {
+                "city": "Dudley",
+                "country": "United Kingdom",
+                "admin_name": "Dudley",
+                "capital": "",
+                "population": 79379,
+                "population_proper": 79379
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1175,
+                    51.4575
+                ]
+            },
+            "properties": {
+                "city": "Brixton",
+                "country": "United Kingdom",
+                "admin_name": "Lambeth",
+                "capital": "",
+                "population": 78536,
+                "population_proper": 78536
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3756,
+                    51.5111
+                ]
+            },
+            "properties": {
+                "city": "Southall",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 78253,
+                "population_proper": 78253
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4239,
+                    55.8456
+                ]
+            },
+            "properties": {
+                "city": "Paisley",
+                "country": "United Kingdom",
+                "admin_name": "Renfrewshire",
+                "capital": "",
+                "population": 77220,
+                "population_proper": 77220
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.52,
+                    51.37
+                ]
+            },
+            "properties": {
+                "city": "Chatham",
+                "country": "United Kingdom",
+                "admin_name": "Medway",
+                "capital": "",
+                "population": 76792,
+                "population_proper": 76792
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0554,
+                    51.5323
+                ]
+            },
+            "properties": {
+                "city": "East Ham",
+                "country": "United Kingdom",
+                "admin_name": "Newham",
+                "capital": "",
+                "population": 76186,
+                "population_proper": 76186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.977,
+                    51.346
+                ]
+            },
+            "properties": {
+                "city": "Weston-super-Mare",
+                "country": "United Kingdom",
+                "admin_name": "North Somerset",
+                "capital": "",
+                "population": 76143,
+                "population_proper": 76143
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9364,
+                    54.8947
+                ]
+            },
+            "properties": {
+                "city": "Carlisle",
+                "country": "United Kingdom",
+                "admin_name": "Cumbria",
+                "capital": "",
+                "population": 75399,
+                "population_proper": 75399
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.43,
+                    54.995
+                ]
+            },
+            "properties": {
+                "city": "South Shields",
+                "country": "United Kingdom",
+                "admin_name": "South Tyneside",
+                "capital": "",
+                "population": 75337,
+                "population_proper": 75337
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1769,
+                    55.7644
+                ]
+            },
+            "properties": {
+                "city": "East Kilbride",
+                "country": "United Kingdom",
+                "admin_name": "South Lanarkshire",
+                "capital": "",
+                "population": 75120,
+                "population_proper": 75120
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6367,
+                    52.8019
+                ]
+            },
+            "properties": {
+                "city": "Burton upon Trent",
+                "country": "United Kingdom",
+                "admin_name": "Staffordshire",
+                "capital": "",
+                "population": 75074,
+                "population_proper": 75074
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5378,
+                    53.9919
+                ]
+            },
+            "properties": {
+                "city": "Harrogate",
+                "country": "United Kingdom",
+                "admin_name": "North Yorkshire",
+                "capital": "",
+                "population": 73576,
+                "population_proper": 73576
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.44,
+                    53.099
+                ]
+            },
+            "properties": {
+                "city": "Crewe",
+                "country": "United Kingdom",
+                "admin_name": "Cheshire East",
+                "capital": "",
+                "population": 73241,
+                "population_proper": 73241
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.75,
+                    52.48
+                ]
+            },
+            "properties": {
+                "city": "Lowestoft",
+                "country": "United Kingdom",
+                "admin_name": "Suffolk",
+                "capital": "",
+                "population": 70945,
+                "population_proper": 70945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.26,
+                    52.37
+                ]
+            },
+            "properties": {
+                "city": "Rugby",
+                "country": "United Kingdom",
+                "admin_name": "Warwickshire",
+                "capital": "",
+                "population": 70627,
+                "population_proper": 70627
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.009,
+                    51.623
+                ]
+            },
+            "properties": {
+                "city": "Chingford",
+                "country": "United Kingdom",
+                "admin_name": "Waltham Forest",
+                "capital": "",
+                "population": 70583,
+                "population_proper": 70583
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4778,
+                    51.5404
+                ]
+            },
+            "properties": {
+                "city": "Uxbridge",
+                "country": "United Kingdom",
+                "admin_name": "Hillingdon",
+                "capital": "",
+                "population": 70560,
+                "population_proper": 70560
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.98,
+                    52.58
+                ]
+            },
+            "properties": {
+                "city": "Walsall",
+                "country": "United Kingdom",
+                "admin_name": "Walsall",
+                "capital": "",
+                "population": 67594,
+                "population_proper": 67594
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.33,
+                    51.475
+                ]
+            },
+            "properties": {
+                "city": "Grays",
+                "country": "United Kingdom",
+                "admin_name": "Thurrock",
+                "capital": "",
+                "population": 66843,
+                "population_proper": 66843
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4133,
+                    51.3868
+                ]
+            },
+            "properties": {
+                "city": "Walton upon Thames",
+                "country": "United Kingdom",
+                "admin_name": "Surrey",
+                "capital": "",
+                "population": 66566,
+                "population_proper": 66566
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1086,
+                    51.4002
+                ]
+            },
+            "properties": {
+                "city": "Thornton Heath",
+                "country": "United Kingdom",
+                "admin_name": "Croydon",
+                "capital": "",
+                "population": 65812,
+                "population_proper": 65812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.187,
+                    51.599
+                ]
+            },
+            "properties": {
+                "city": "Finchley",
+                "country": "United Kingdom",
+                "admin_name": "Barnet",
+                "capital": "",
+                "population": 65812,
+                "population_proper": 65812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19,
+                    51.5
+                ]
+            },
+            "properties": {
+                "city": "Kensington",
+                "country": "United Kingdom",
+                "admin_name": "Kensington and Chelsea",
+                "capital": "",
+                "population": 64681,
+                "population_proper": 64681
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0214,
+                    52.974
+                ]
+            },
+            "properties": {
+                "city": "Boston",
+                "country": "United Kingdom",
+                "admin_name": "Lincolnshire",
+                "capital": "",
+                "population": 64600,
+                "population_proper": 64600
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5625,
+                    50.4353
+                ]
+            },
+            "properties": {
+                "city": "Paignton",
+                "country": "United Kingdom",
+                "admin_name": "Devon",
+                "capital": "",
+                "population": 64410,
+                "population_proper": 64410
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.03,
+                    50.88
+                ]
+            },
+            "properties": {
+                "city": "Waterlooville",
+                "country": "United Kingdom",
+                "admin_name": "Hampshire",
+                "capital": "",
+                "population": 64350,
+                "population_proper": 64350
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.706,
+                    53.875
+                ]
+            },
+            "properties": {
+                "city": "Guiseley",
+                "country": "United Kingdom",
+                "admin_name": "Leeds",
+                "capital": "",
+                "population": 64000,
+                "population_proper": 64000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2128,
+                    51.5565
+                ]
+            },
+            "properties": {
+                "city": "Hornchurch",
+                "country": "United Kingdom",
+                "admin_name": "Havering",
+                "capital": "",
+                "population": 63583,
+                "population_proper": 63583
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1517,
+                    51.4009
+                ]
+            },
+            "properties": {
+                "city": "Mitcham",
+                "country": "United Kingdom",
+                "admin_name": "Merton",
+                "capital": "",
+                "population": 63393,
+                "population_proper": 63393
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4089,
+                    51.4496
+                ]
+            },
+            "properties": {
+                "city": "Feltham",
+                "country": "United Kingdom",
+                "admin_name": "Hounslow",
+                "capital": "",
+                "population": 63368,
+                "population_proper": 63368
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1479,
+                    52.4575
+                ]
+            },
+            "properties": {
+                "city": "Stourbridge",
+                "country": "United Kingdom",
+                "admin_name": "Dudley",
+                "capital": "",
+                "population": 63298,
+                "population_proper": 63298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5,
+                    51.375
+                ]
+            },
+            "properties": {
+                "city": "Rochester",
+                "country": "United Kingdom",
+                "admin_name": "Medway",
+                "capital": "",
+                "population": 62982,
+                "population_proper": 62982
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.633,
+                    53.691
+                ]
+            },
+            "properties": {
+                "city": "Dewsbury",
+                "country": "United Kingdom",
+                "admin_name": "Kirklees",
+                "capital": "",
+                "population": 62945,
+                "population_proper": 62945
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2707,
+                    51.5135
+                ]
+            },
+            "properties": {
+                "city": "Acton",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 62480,
+                "population_proper": 62480
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.337,
+                    51.449
+                ]
+            },
+            "properties": {
+                "city": "Twickenham",
+                "country": "United Kingdom",
+                "admin_name": "Richmond upon Thames",
+                "capital": "",
+                "population": 62148,
+                "population_proper": 62148
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.993,
+                    53.046
+                ]
+            },
+            "properties": {
+                "city": "Wrecsam",
+                "country": "United Kingdom",
+                "admin_name": "Wrexham",
+                "capital": "",
+                "population": 61603,
+                "population_proper": 61603
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.897,
+                    53.279
+                ]
+            },
+            "properties": {
+                "city": "Ellesmere Port",
+                "country": "United Kingdom",
+                "admin_name": "Cheshire West and Chester",
+                "capital": "",
+                "population": 61090,
+                "population_proper": 61090
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.67,
+                    54.66
+                ]
+            },
+            "properties": {
+                "city": "Bangor",
+                "country": "United Kingdom",
+                "admin_name": "Ards and North Down",
+                "capital": "",
+                "population": 61011,
+                "population_proper": 61011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1,
+                    51.019
+                ]
+            },
+            "properties": {
+                "city": "Taunton",
+                "country": "United Kingdom",
+                "admin_name": "Somerset",
+                "capital": "",
+                "population": 60479,
+                "population_proper": 60479
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2078,
+                    52.7725
+                ]
+            },
+            "properties": {
+                "city": "Loughborough",
+                "country": "United Kingdom",
+                "admin_name": "Leicestershire",
+                "capital": "",
+                "population": 59932,
+                "population_proper": 59932
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08,
+                    51.54
+                ]
+            },
+            "properties": {
+                "city": "Barking",
+                "country": "United Kingdom",
+                "admin_name": "Barking and Dagenham",
+                "capital": "",
+                "population": 59068,
+                "population_proper": 59068
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2729,
+                    51.6185
+                ]
+            },
+            "properties": {
+                "city": "Edgware",
+                "country": "United Kingdom",
+                "admin_name": "Barnet",
+                "capital": "",
+                "population": 58619,
+                "population_proper": 58619
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5409,
+                    50.8094
+                ]
+            },
+            "properties": {
+                "city": "Littlehampton",
+                "country": "United Kingdom",
+                "admin_name": "West Sussex",
+                "capital": "",
+                "population": 58357,
+                "population_proper": 58357
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.433,
+                    51.576
+                ]
+            },
+            "properties": {
+                "city": "Ruislip",
+                "country": "United Kingdom",
+                "admin_name": "Hillingdon",
+                "capital": "",
+                "population": 58217,
+                "population_proper": 58217
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1235,
+                    51.4279
+                ]
+            },
+            "properties": {
+                "city": "Streatham",
+                "country": "United Kingdom",
+                "admin_name": "Lambeth",
+                "capital": "",
+                "population": 58055,
+                "population_proper": 58055
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.263,
+                    51.132
+                ]
+            },
+            "properties": {
+                "city": "Royal Tunbridge Wells",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 57772,
+                "population_proper": 57772
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.003,
+                    53.35
+                ]
+            },
+            "properties": {
+                "city": "Bebington",
+                "country": "United Kingdom",
+                "admin_name": "Wirral",
+                "capital": "",
+                "population": 57336,
+                "population_proper": 57336
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.13,
+                    53.25
+                ]
+            },
+            "properties": {
+                "city": "Macclesfield",
+                "country": "United Kingdom",
+                "admin_name": "Cheshire East",
+                "capital": "",
+                "population": 56581,
+                "population_proper": 56581
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6944,
+                    52.3028
+                ]
+            },
+            "properties": {
+                "city": "Wellingborough",
+                "country": "United Kingdom",
+                "admin_name": "Northamptonshire",
+                "capital": "",
+                "population": 56564,
+                "population_proper": 56564
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7229,
+                    52.3931
+                ]
+            },
+            "properties": {
+                "city": "Kettering",
+                "country": "United Kingdom",
+                "admin_name": "Northamptonshire",
+                "capital": "",
+                "population": 56226,
+                "population_proper": 56226
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.55,
+                    51.878
+                ]
+            },
+            "properties": {
+                "city": "Braintree",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 55792,
+                "population_proper": 55792
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5358,
+                    52.2919
+                ]
+            },
+            "properties": {
+                "city": "Royal Leamington Spa",
+                "country": "United Kingdom",
+                "admin_name": "Warwickshire",
+                "capital": "",
+                "population": 55733,
+                "population_proper": 55733
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2261,
+                    54.1108
+                ]
+            },
+            "properties": {
+                "city": "Barrow in Furness",
+                "country": "United Kingdom",
+                "admin_name": "Cumbria",
+                "capital": "",
+                "population": 55489,
+                "population_proper": 55489
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4393,
+                    56.0719
+                ]
+            },
+            "properties": {
+                "city": "Dunfermline",
+                "country": "United Kingdom",
+                "admin_name": "Fife",
+                "capital": "",
+                "population": 53100,
+                "population_proper": 53100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3547,
+                    53.3838
+                ]
+            },
+            "properties": {
+                "city": "Altrincham",
+                "country": "United Kingdom",
+                "admin_name": "Trafford",
+                "capital": "",
+                "population": 52419,
+                "population_proper": 52419
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8014,
+                    54.0489
+                ]
+            },
+            "properties": {
+                "city": "Lancaster",
+                "country": "United Kingdom",
+                "admin_name": "Lancashire",
+                "capital": "",
+                "population": 52234,
+                "population_proper": 52234
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0343,
+                    53.4872
+                ]
+            },
+            "properties": {
+                "city": "Crosby",
+                "country": "United Kingdom",
+                "admin_name": "Sefton",
+                "capital": "",
+                "population": 51789,
+                "population_proper": 51789
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9891,
+                    53.4457
+                ]
+            },
+            "properties": {
+                "city": "Bootle",
+                "country": "United Kingdom",
+                "admin_name": "Sefton",
+                "capital": "",
+                "population": 51394,
+                "population_proper": 51394
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0026,
+                    51.5423
+                ]
+            },
+            "properties": {
+                "city": "Stratford",
+                "country": "United Kingdom",
+                "admin_name": "Newham",
+                "capital": "",
+                "population": 51387,
+                "population_proper": 51387
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1794,
+                    51.0792
+                ]
+            },
+            "properties": {
+                "city": "Folkestone",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 51337,
+                "population_proper": 51337
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.994,
+                    55.945
+                ]
+            },
+            "properties": {
+                "city": "Cumbernauld",
+                "country": "United Kingdom",
+                "admin_name": "North Lanarkshire",
+                "capital": "",
+                "population": 50920,
+                "population_proper": 50920
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.48,
+                    51.208
+                ]
+            },
+            "properties": {
+                "city": "Andover",
+                "country": "United Kingdom",
+                "admin_name": "Hampshire",
+                "capital": "",
+                "population": 50887,
+                "population_proper": 50887
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.81,
+                    51.66
+                ]
+            },
+            "properties": {
+                "city": "Neath",
+                "country": "United Kingdom",
+                "admin_name": "Neath Port Talbot",
+                "capital": "",
+                "population": 50658,
+                "population_proper": 50658
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.05,
+                    52.488
+                ]
+            },
+            "properties": {
+                "city": "Rowley Regis",
+                "country": "United Kingdom",
+                "admin_name": "Sandwell",
+                "capital": "",
+                "population": 50257,
+                "population_proper": 50257
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4,
+                    54.2825
+                ]
+            },
+            "properties": {
+                "city": "Scarborough",
+                "country": "United Kingdom",
+                "admin_name": "North Yorkshire",
+                "capital": "",
+                "population": 50135,
+                "population_proper": 50135
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.17,
+                    55.98
+                ]
+            },
+            "properties": {
+                "city": "Leith",
+                "country": "United Kingdom",
+                "admin_name": "Edinburgh, City of",
+                "capital": "",
+                "population": 50030,
+                "population_proper": 50030
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.637,
+                    50.9452
+                ]
+            },
+            "properties": {
+                "city": "Yeovil",
+                "country": "United Kingdom",
+                "admin_name": "Somerset",
+                "capital": "",
+                "population": 49698,
+                "population_proper": 49698
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.052,
+                    51.451
+                ]
+            },
+            "properties": {
+                "city": "Eltham",
+                "country": "United Kingdom",
+                "admin_name": "Greenwich",
+                "capital": "",
+                "population": 48964,
+                "population_proper": 48964
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1744,
+                    51.5541
+                ]
+            },
+            "properties": {
+                "city": "Hampstead",
+                "country": "United Kingdom",
+                "admin_name": "Camden",
+                "capital": "",
+                "population": 48858,
+                "population_proper": 48858
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.261,
+                    53.125
+                ]
+            },
+            "properties": {
+                "city": "Sutton in Ashfield",
+                "country": "United Kingdom",
+                "admin_name": "Nottinghamshire",
+                "capital": "",
+                "population": 48527,
+                "population_proper": 48527
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1949,
+                    51.4015
+                ]
+            },
+            "properties": {
+                "city": "Morden",
+                "country": "United Kingdom",
+                "admin_name": "Merton",
+                "capital": "",
+                "population": 48233,
+                "population_proper": 48233
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1997,
+                    51.6444
+                ]
+            },
+            "properties": {
+                "city": "Barnet",
+                "country": "United Kingdom",
+                "admin_name": "Barnet",
+                "capital": "",
+                "population": 47359,
+                "population_proper": 47359
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3086,
+                    53.4466
+                ]
+            },
+            "properties": {
+                "city": "Stretford",
+                "country": "United Kingdom",
+                "admin_name": "Trafford",
+                "capital": "",
+                "population": 46910,
+                "population_proper": 46910
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.022,
+                    51.408
+                ]
+            },
+            "properties": {
+                "city": "Beckenham",
+                "country": "United Kingdom",
+                "admin_name": "Bromley",
+                "capital": "",
+                "population": 46844,
+                "population_proper": 46844
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3488,
+                    51.5299
+                ]
+            },
+            "properties": {
+                "city": "Greenford",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 46787,
+                "population_proper": 46787
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.035,
+                    51.702
+                ]
+            },
+            "properties": {
+                "city": "Cheshunt",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 45832,
+                "population_proper": 45832
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.89,
+                    53.48
+                ]
+            },
+            "properties": {
+                "city": "Kirkby",
+                "country": "United Kingdom",
+                "admin_name": "Knowsley",
+                "capital": "",
+                "population": 45564,
+                "population_proper": 45564
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.79,
+                    51.07
+                ]
+            },
+            "properties": {
+                "city": "Salisbury",
+                "country": "United Kingdom",
+                "admin_name": "Wiltshire",
+                "capital": "",
+                "population": 45477,
+                "population_proper": 45477
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0952,
+                    53.4897
+                ]
+            },
+            "properties": {
+                "city": "Ashton",
+                "country": "United Kingdom",
+                "admin_name": "Tameside",
+                "capital": "",
+                "population": 45198,
+                "population_proper": 45198
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.307,
+                    51.394
+                ]
+            },
+            "properties": {
+                "city": "Surbiton",
+                "country": "United Kingdom",
+                "admin_name": "Kingston upon Thames",
+                "capital": "",
+                "population": 45132,
+                "population_proper": 45132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.356,
+                    53.716
+                ]
+            },
+            "properties": {
+                "city": "Castleford",
+                "country": "United Kingdom",
+                "admin_name": "Wakefield",
+                "capital": "",
+                "population": 45106,
+                "population_proper": 45106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0207,
+                    51.4452
+                ]
+            },
+            "properties": {
+                "city": "Catford",
+                "country": "United Kingdom",
+                "admin_name": "Lewisham",
+                "capital": "",
+                "population": 44905,
+                "population_proper": 44905
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1244,
+                    53.3042
+                ]
+            },
+            "properties": {
+                "city": "Worksop",
+                "country": "United Kingdom",
+                "admin_name": "Nottinghamshire",
+                "capital": "",
+                "population": 44733,
+                "population_proper": 44733
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6023,
+                    53.7492
+                ]
+            },
+            "properties": {
+                "city": "Morley",
+                "country": "United Kingdom",
+                "admin_name": "Leeds",
+                "capital": "",
+                "population": 44440,
+                "population_proper": 44440
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.378,
+                    51.743
+                ]
+            },
+            "properties": {
+                "city": "Merthyr Tudful",
+                "country": "United Kingdom",
+                "admin_name": "Merthyr Tydfil",
+                "capital": "",
+                "population": 43820,
+                "population_proper": 43820
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.187,
+                    53.555
+                ]
+            },
+            "properties": {
+                "city": "Middleton",
+                "country": "United Kingdom",
+                "admin_name": "Rochdale",
+                "capital": "",
+                "population": 42972,
+                "population_proper": 42972
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8456,
+                    51.2834
+                ]
+            },
+            "properties": {
+                "city": "Fleet",
+                "country": "United Kingdom",
+                "admin_name": "Hampshire",
+                "capital": "",
+                "population": 42835,
+                "population_proper": 42835
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.18,
+                    50.85
+                ]
+            },
+            "properties": {
+                "city": "Fareham",
+                "country": "United Kingdom",
+                "admin_name": "Hampshire",
+                "capital": "",
+                "population": 42210,
+                "population_proper": 42210
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3747,
+                    53.4487
+                ]
+            },
+            "properties": {
+                "city": "Urmston",
+                "country": "United Kingdom",
+                "admin_name": "Trafford",
+                "capital": "",
+                "population": 41825,
+                "population_proper": 41825
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1963,
+                    51.3656
+                ]
+            },
+            "properties": {
+                "city": "Sutton",
+                "country": "United Kingdom",
+                "admin_name": "Sutton",
+                "capital": "",
+                "population": 41483,
+                "population_proper": 41483
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.218,
+                    51.578
+                ]
+            },
+            "properties": {
+                "city": "Caerphilly",
+                "country": "United Kingdom",
+                "admin_name": "Caerphilly",
+                "capital": "",
+                "population": 41402,
+                "population_proper": 41402
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.993,
+                    51.128
+                ]
+            },
+            "properties": {
+                "city": "Bridgwater",
+                "country": "United Kingdom",
+                "admin_name": "Somerset",
+                "capital": "",
+                "population": 41276,
+                "population_proper": 41276
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.323,
+                    51.401
+                ]
+            },
+            "properties": {
+                "city": "Newbury",
+                "country": "United Kingdom",
+                "admin_name": "West Berkshire",
+                "capital": "",
+                "population": 41075,
+                "population_proper": 41075
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1097,
+                    51.4594
+                ]
+            },
+            "properties": {
+                "city": "Welling",
+                "country": "United Kingdom",
+                "admin_name": "Bexley",
+                "capital": "",
+                "population": 41000,
+                "population_proper": 41000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.505,
+                    51.46
+                ]
+            },
+            "properties": {
+                "city": "Kingswood",
+                "country": "United Kingdom",
+                "admin_name": "South Gloucestershire",
+                "capital": "",
+                "population": 40734,
+                "population_proper": 40734
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.521,
+                    51.886
+                ]
+            },
+            "properties": {
+                "city": "Dunstable",
+                "country": "United Kingdom",
+                "admin_name": "Central Bedfordshire",
+                "capital": "",
+                "population": 40699,
+                "population_proper": 40699
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.416,
+                    51.336
+                ]
+            },
+            "properties": {
+                "city": "Ramsgate",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 40408,
+                "population_proper": 40408
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.478,
+                    51.393
+                ]
+            },
+            "properties": {
+                "city": "Strood",
+                "country": "United Kingdom",
+                "admin_name": "Medway",
+                "capital": "",
+                "population": 40000,
+                "population_proper": 40000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0215,
+                    53.5533
+                ]
+            },
+            "properties": {
+                "city": "Cleethorpes",
+                "country": "United Kingdom",
+                "admin_name": "North East Lincolnshire",
+                "capital": "",
+                "population": 38996,
+                "population_proper": 38996
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3894,
+                    51.5932
+                ]
+            },
+            "properties": {
+                "city": "Pinner",
+                "country": "United Kingdom",
+                "admin_name": "Harrow",
+                "capital": "",
+                "population": 38698,
+                "population_proper": 38698
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.729,
+                    52.606
+                ]
+            },
+            "properties": {
+                "city": "Great Yarmouth",
+                "country": "United Kingdom",
+                "admin_name": "Norfolk",
+                "capital": "",
+                "population": 38693,
+                "population_proper": 38693
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3092,
+                    52.9711
+                ]
+            },
+            "properties": {
+                "city": "Ilkeston",
+                "country": "United Kingdom",
+                "admin_name": "Derbyshire",
+                "capital": "",
+                "population": 38640,
+                "population_proper": 38640
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.632,
+                    53.653
+                ]
+            },
+            "properties": {
+                "city": "Chorley",
+                "country": "United Kingdom",
+                "admin_name": "Lancashire",
+                "capital": "",
+                "population": 38420,
+                "population_proper": 38420
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.13,
+                    51.37
+                ]
+            },
+            "properties": {
+                "city": "Herne Bay",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 38385,
+                "population_proper": 38385
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1725,
+                    51.872
+                ]
+            },
+            "properties": {
+                "city": "Bishops Stortford",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 38202,
+                "population_proper": 38202
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.127,
+                    53.005
+                ]
+            },
+            "properties": {
+                "city": "Arnold",
+                "country": "United Kingdom",
+                "admin_name": "Nottinghamshire",
+                "capital": "",
+                "population": 37768,
+                "population_proper": 37768
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.369,
+                    52.724
+                ]
+            },
+            "properties": {
+                "city": "Coalville",
+                "country": "United Kingdom",
+                "admin_name": "Leicestershire",
+                "capital": "",
+                "population": 37661,
+                "population_proper": 37661
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.732,
+                    51.994
+                ]
+            },
+            "properties": {
+                "city": "Bletchley",
+                "country": "United Kingdom",
+                "admin_name": "Milton Keynes",
+                "capital": "",
+                "population": 37520,
+                "population_proper": 37520
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6617,
+                    51.9165
+                ]
+            },
+            "properties": {
+                "city": "Leighton Buzzard",
+                "country": "United Kingdom",
+                "admin_name": "Central Bedfordshire",
+                "capital": "",
+                "population": 37469,
+                "population_proper": 37469
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.98,
+                    55.86
+                ]
+            },
+            "properties": {
+                "city": "Airdrie",
+                "country": "United Kingdom",
+                "admin_name": "North Lanarkshire",
+                "capital": "",
+                "population": 37410,
+                "population_proper": 37410
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.514,
+                    55.126
+                ]
+            },
+            "properties": {
+                "city": "Blyth",
+                "country": "United Kingdom",
+                "admin_name": "Northumberland",
+                "capital": "",
+                "population": 37339,
+                "population_proper": 37339
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4181,
+                    51.574
+                ]
+            },
+            "properties": {
+                "city": "Laindon",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 37175,
+                "population_proper": 37175
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.163,
+                    51.684
+                ]
+            },
+            "properties": {
+                "city": "Llanelli",
+                "country": "United Kingdom",
+                "admin_name": "Carmarthenshire",
+                "capital": "",
+                "population": 37050,
+                "population_proper": 37050
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.215,
+                    52.927
+                ]
+            },
+            "properties": {
+                "city": "Beeston",
+                "country": "United Kingdom",
+                "admin_name": "Nottinghamshire",
+                "capital": "",
+                "population": 37000,
+                "population_proper": 37000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8542,
+                    52.4629
+                ]
+            },
+            "properties": {
+                "city": "Small Heath",
+                "country": "United Kingdom",
+                "admin_name": "Birmingham",
+                "capital": "",
+                "population": 36898,
+                "population_proper": 36898
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4443,
+                    55.0456
+                ]
+            },
+            "properties": {
+                "city": "Whitley Bay",
+                "country": "United Kingdom",
+                "admin_name": "North Tyneside",
+                "capital": "",
+                "population": 36623,
+                "population_proper": 36623
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1122,
+                    53.4554
+                ]
+            },
+            "properties": {
+                "city": "Denton",
+                "country": "United Kingdom",
+                "admin_name": "Tameside",
+                "capital": "",
+                "population": 36591,
+                "population_proper": 36591
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.127,
+                    52.932
+                ]
+            },
+            "properties": {
+                "city": "West Bridgford",
+                "country": "United Kingdom",
+                "admin_name": "Nottinghamshire",
+                "capital": "",
+                "population": 36487,
+                "population_proper": 36487
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2722,
+                    51.6578
+                ]
+            },
+            "properties": {
+                "city": "Borehamwood",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 36322,
+                "population_proper": 36322
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7835,
+                    56.0011
+                ]
+            },
+            "properties": {
+                "city": "Falkirk",
+                "country": "United Kingdom",
+                "admin_name": "Falkirk",
+                "capital": "",
+                "population": 35850,
+                "population_proper": 35850
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3991,
+                    53.5239
+                ]
+            },
+            "properties": {
+                "city": "Walkden",
+                "country": "United Kingdom",
+                "admin_name": "Salford",
+                "capital": "",
+                "population": 35616,
+                "population_proper": 35616
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3086,
+                    51.5878
+                ]
+            },
+            "properties": {
+                "city": "Kenton",
+                "country": "United Kingdom",
+                "admin_name": "Brent",
+                "capital": "",
+                "population": 35600,
+                "population_proper": 35600
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1923,
+                    54.0819
+                ]
+            },
+            "properties": {
+                "city": "Bridlington",
+                "country": "United Kingdom",
+                "admin_name": "East Riding of Yorkshire",
+                "capital": "",
+                "population": 35264,
+                "population_proper": 35264
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.27,
+                    54.61
+                ]
+            },
+            "properties": {
+                "city": "Billingham",
+                "country": "United Kingdom",
+                "admin_name": "Stockton-on-Tees",
+                "capital": "",
+                "population": 35165,
+                "population_proper": 35165
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.638,
+                    52.918
+                ]
+            },
+            "properties": {
+                "city": "Grantham",
+                "country": "United Kingdom",
+                "admin_name": "Lincolnshire",
+                "capital": "",
+                "population": 34592,
+                "population_proper": 34592
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4448,
+                    55.0097
+                ]
+            },
+            "properties": {
+                "city": "North Shields",
+                "country": "United Kingdom",
+                "admin_name": "North Tyneside",
+                "capital": "",
+                "population": 34423,
+                "population_proper": 34423
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.283,
+                    51.947
+                ]
+            },
+            "properties": {
+                "city": "Hitchin",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 34266,
+                "population_proper": 34266
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1529,
+                    52.7858
+                ]
+            },
+            "properties": {
+                "city": "Spalding",
+                "country": "United Kingdom",
+                "admin_name": "Lincolnshire",
+                "capital": "",
+                "population": 34113,
+                "population_proper": 34113
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.61,
+                    51.36
+                ]
+            },
+            "properties": {
+                "city": "Rainham",
+                "country": "United Kingdom",
+                "admin_name": "Medway",
+                "capital": "",
+                "population": 34088,
+                "population_proper": 34088
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.23,
+                    51.978
+                ]
+            },
+            "properties": {
+                "city": "Letchworth",
+                "country": "United Kingdom",
+                "admin_name": "Hertfordshire",
+                "capital": "",
+                "population": 33986,
+                "population_proper": 33986
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5207,
+                    51.6114
+                ]
+            },
+            "properties": {
+                "city": "Wickford",
+                "country": "United Kingdom",
+                "admin_name": "Essex",
+                "capital": "",
+                "population": 33486,
+                "population_proper": 33486
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8403,
+                    53.4111
+                ]
+            },
+            "properties": {
+                "city": "Huyton",
+                "country": "United Kingdom",
+                "admin_name": "Knowsley",
+                "capital": "",
+                "population": 33193,
+                "population_proper": 33193
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2783,
+                    51.6717
+                ]
+            },
+            "properties": {
+                "city": "Abingdon",
+                "country": "United Kingdom",
+                "admin_name": "Oxfordshire",
+                "capital": "",
+                "population": 33130,
+                "population_proper": 33130
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.208,
+                    51.32
+                ]
+            },
+            "properties": {
+                "city": "Trowbridge",
+                "country": "United Kingdom",
+                "admin_name": "Wiltshire",
+                "capital": "",
+                "population": 33108,
+                "population_proper": 33108
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.093,
+                    52.5812
+                ]
+            },
+            "properties": {
+                "city": "Wigston Magna",
+                "country": "United Kingdom",
+                "admin_name": "Leicestershire",
+                "capital": "",
+                "population": 32321,
+                "population_proper": 32321
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.241,
+                    51.606
+                ]
+            },
+            "properties": {
+                "city": "Didcot",
+                "country": "United Kingdom",
+                "admin_name": "Oxfordshire",
+                "capital": "",
+                "population": 32183,
+                "population_proper": 32183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.933,
+                    51.433
+                ]
+            },
+            "properties": {
+                "city": "Earley",
+                "country": "United Kingdom",
+                "admin_name": "Wokingham",
+                "capital": "",
+                "population": 32036,
+                "population_proper": 32036
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138,
+                    51.459
+                ]
+            },
+            "properties": {
+                "city": "Bexleyheath",
+                "country": "United Kingdom",
+                "admin_name": "Bexley",
+                "capital": "",
+                "population": 31929,
+                "population_proper": 31929
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4698,
+                    53.4429
+                ]
+            },
+            "properties": {
+                "city": "Ecclesfield",
+                "country": "United Kingdom",
+                "admin_name": "Sheffield",
+                "capital": "",
+                "population": 31609,
+                "population_proper": 31609
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.461,
+                    53.698
+                ]
+            },
+            "properties": {
+                "city": "Darwen",
+                "country": "United Kingdom",
+                "admin_name": "Blackburn with Darwen",
+                "capital": "",
+                "population": 31570,
+                "population_proper": 31570
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2833,
+                    53.5333
+                ]
+            },
+            "properties": {
+                "city": "Prestwich",
+                "country": "United Kingdom",
+                "admin_name": "Bury",
+                "capital": "",
+                "population": 31500,
+                "population_proper": 31500
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.342,
+                    51.602
+                ]
+            },
+            "properties": {
+                "city": "Pontypridd",
+                "country": "United Kingdom",
+                "admin_name": "Rhondda Cynon Taff",
+                "capital": "",
+                "population": 31206,
+                "population_proper": 31206
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.214,
+                    55.828
+                ]
+            },
+            "properties": {
+                "city": "Rutherglen",
+                "country": "United Kingdom",
+                "admin_name": "Glasgow City",
+                "capital": "",
+                "population": 31190,
+                "population_proper": 31190
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3089,
+                    51.1295
+                ]
+            },
+            "properties": {
+                "city": "Dover",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 31022,
+                "population_proper": 31022
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7792,
+                    50.8365
+                ]
+            },
+            "properties": {
+                "city": "Chichester",
+                "country": "United Kingdom",
+                "admin_name": "West Sussex",
+                "capital": "",
+                "population": 30925,
+                "population_proper": 30925
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4006,
+                    51.2226
+                ]
+            },
+            "properties": {
+                "city": "Deal",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 30917,
+                "population_proper": 30917
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.15,
+                    51.9
+                ]
+            },
+            "properties": {
+                "city": "Bicester",
+                "country": "United Kingdom",
+                "admin_name": "Oxfordshire",
+                "capital": "",
+                "population": 30854,
+                "population_proper": 30854
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37,
+                    51.5467
+                ]
+            },
+            "properties": {
+                "city": "Northolt",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 30304,
+                "population_proper": 30304
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9183,
+                    55.7742
+                ]
+            },
+            "properties": {
+                "city": "Wishaw",
+                "country": "United Kingdom",
+                "admin_name": "North Lanarkshire",
+                "capital": "",
+                "population": 30290,
+                "population_proper": 30290
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1676,
+                    51.3652
+                ]
+            },
+            "properties": {
+                "city": "Carshalton",
+                "country": "United Kingdom",
+                "admin_name": "Sutton",
+                "capital": "",
+                "population": 29917,
+                "population_proper": 29917
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.197,
+                    53.001
+                ]
+            },
+            "properties": {
+                "city": "Bulwell",
+                "country": "United Kingdom",
+                "admin_name": "Nottingham",
+                "capital": "",
+                "population": 29771,
+                "population_proper": 29771
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.68,
+                    54.591
+                ]
+            },
+            "properties": {
+                "city": "Newtownards",
+                "country": "United Kingdom",
+                "admin_name": "Ards and North Down",
+                "capital": "",
+                "population": 29677,
+                "population_proper": 29677
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.745,
+                    54.326
+                ]
+            },
+            "properties": {
+                "city": "Kendal",
+                "country": "United Kingdom",
+                "admin_name": "Cumbria",
+                "capital": "",
+                "population": 29593,
+                "population_proper": 29593
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.585,
+                    55.082
+                ]
+            },
+            "properties": {
+                "city": "Cramlington",
+                "country": "United Kingdom",
+                "admin_name": "Northumberland",
+                "capital": "",
+                "population": 29405,
+                "population_proper": 29405
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0579,
+                    52.3353
+                ]
+            },
+            "properties": {
+                "city": "Bromsgrove",
+                "country": "United Kingdom",
+                "admin_name": "Worcestershire",
+                "capital": "",
+                "population": 29237,
+                "population_proper": 29237
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.041,
+                    51.703
+                ]
+            },
+            "properties": {
+                "city": "Pont-y-p\u0175l",
+                "country": "United Kingdom",
+                "admin_name": "Torfaen",
+                "capital": "",
+                "population": 29062,
+                "population_proper": 29062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.338,
+                    51.509
+                ]
+            },
+            "properties": {
+                "city": "Hanwell",
+                "country": "United Kingdom",
+                "admin_name": "Ealing",
+                "capital": "",
+                "population": 28768,
+                "population_proper": 28768
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3215,
+                    51.2279
+                ]
+            },
+            "properties": {
+                "city": "Frome",
+                "country": "United Kingdom",
+                "admin_name": "Somerset",
+                "capital": "",
+                "population": 28559,
+                "population_proper": 28559
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1149,
+                    51.5981
+                ]
+            },
+            "properties": {
+                "city": "Wood Green",
+                "country": "United Kingdom",
+                "admin_name": "Haringey",
+                "capital": "",
+                "population": 28453,
+                "population_proper": 28453
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0457,
+                    52.5708
+                ]
+            },
+            "properties": {
+                "city": "Darlaston",
+                "country": "United Kingdom",
+                "admin_name": "Walsall",
+                "capital": "",
+                "population": 27821,
+                "population_proper": 27821
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.568,
+                    55.181
+                ]
+            },
+            "properties": {
+                "city": "Ashington",
+                "country": "United Kingdom",
+                "admin_name": "Northumberland",
+                "capital": "",
+                "population": 27764,
+                "population_proper": 27764
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1327,
+                    52.9877
+                ]
+            },
+            "properties": {
+                "city": "Longton",
+                "country": "United Kingdom",
+                "admin_name": "Stoke-on-Trent",
+                "capital": "",
+                "population": 27214,
+                "population_proper": 27214
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.886,
+                    52.7661
+                ]
+            },
+            "properties": {
+                "city": "Melton Mowbray",
+                "country": "United Kingdom",
+                "admin_name": "Leicestershire",
+                "capital": "",
+                "population": 27158,
+                "population_proper": 27158
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9179,
+                    52.606
+                ]
+            },
+            "properties": {
+                "city": "Aldridge",
+                "country": "United Kingdom",
+                "admin_name": "Walsall",
+                "capital": "",
+                "population": 26988,
+                "population_proper": 26988
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3999,
+                    53.5452
+                ]
+            },
+            "properties": {
+                "city": "Farnworth",
+                "country": "United Kingdom",
+                "admin_name": "Bolton",
+                "capital": "",
+                "population": 26939,
+                "population_proper": 26939
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.097,
+                    51.552
+                ]
+            },
+            "properties": {
+                "city": "Highbury",
+                "country": "United Kingdom",
+                "admin_name": "Islington",
+                "capital": "",
+                "population": 26664,
+                "population_proper": 26664
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1897,
+                    53.3761
+                ]
+            },
+            "properties": {
+                "city": "Cheadle Hulme",
+                "country": "United Kingdom",
+                "admin_name": "Stockport",
+                "capital": "",
+                "population": 26479,
+                "population_proper": 26479
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.58,
+                    54.62
+                ]
+            },
+            "properties": {
+                "city": "Newton Aycliffe",
+                "country": "United Kingdom",
+                "admin_name": "Durham",
+                "capital": "",
+                "population": 26415,
+                "population_proper": 26415
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9355,
+                    52.4299
+                ]
+            },
+            "properties": {
+                "city": "Bournville",
+                "country": "United Kingdom",
+                "admin_name": "Birmingham",
+                "capital": "",
+                "population": 25938,
+                "population_proper": 25938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.789,
+                    52.009
+                ]
+            },
+            "properties": {
+                "city": "Shenley Brook End",
+                "country": "United Kingdom",
+                "admin_name": "Milton Keynes",
+                "capital": "",
+                "population": 25828,
+                "population_proper": 25828
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.83,
+                    54.85
+                ]
+            },
+            "properties": {
+                "city": "Consett",
+                "country": "United Kingdom",
+                "admin_name": "Durham",
+                "capital": "",
+                "population": 25812,
+                "population_proper": 25812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1386,
+                    51.3211
+                ]
+            },
+            "properties": {
+                "city": "Coulsdon",
+                "country": "United Kingdom",
+                "admin_name": "Croydon",
+                "capital": "",
+                "population": 25695,
+                "population_proper": 25695
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0728,
+                    52.566
+                ]
+            },
+            "properties": {
+                "city": "Bilston",
+                "country": "United Kingdom",
+                "admin_name": "Wolverhampton",
+                "capital": "",
+                "population": 25576,
+                "population_proper": 25576
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5157,
+                    52.7001
+                ]
+            },
+            "properties": {
+                "city": "Wellington",
+                "country": "United Kingdom",
+                "admin_name": "Telford and Wrekin",
+                "capital": "",
+                "population": 25554,
+                "population_proper": 25554
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.676,
+                    54.663
+                ]
+            },
+            "properties": {
+                "city": "Bishop Auckland",
+                "country": "United Kingdom",
+                "admin_name": "Durham",
+                "capital": "",
+                "population": 25455,
+                "population_proper": 25455
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.979,
+                    52.395
+                ]
+            },
+            "properties": {
+                "city": "Longbridge",
+                "country": "United Kingdom",
+                "admin_name": "Birmingham",
+                "capital": "",
+                "population": 25410,
+                "population_proper": 25410
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.004,
+                    52.614
+                ]
+            },
+            "properties": {
+                "city": "Bloxwich",
+                "country": "United Kingdom",
+                "admin_name": "Walsall",
+                "capital": "",
+                "population": 25401,
+                "population_proper": 25401
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2512,
+                    51.5557
+                ]
+            },
+            "properties": {
+                "city": "Upminster",
+                "country": "United Kingdom",
+                "admin_name": "Havering",
+                "capital": "",
+                "population": 25361,
+                "population_proper": 25361
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.48,
+                    53.321
+                ]
+            },
+            "properties": {
+                "city": "Rhyl",
+                "country": "United Kingdom",
+                "admin_name": "Denbighshire",
+                "capital": "",
+                "population": 25149,
+                "population_proper": 25149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.153,
+                    52.267
+                ]
+            },
+            "properties": {
+                "city": "Droitwich",
+                "country": "United Kingdom",
+                "admin_name": "Worcestershire",
+                "capital": "",
+                "population": 25027,
+                "population_proper": 25027
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5658,
+                    53.5355
+                ]
+            },
+            "properties": {
+                "city": "Hindley",
+                "country": "United Kingdom",
+                "admin_name": "Wigan",
+                "capital": "",
+                "population": 25001,
+                "population_proper": 25001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.529,
+                    53.549
+                ]
+            },
+            "properties": {
+                "city": "Westhoughton",
+                "country": "United Kingdom",
+                "admin_name": "Bolton",
+                "capital": "",
+                "population": 24974,
+                "population_proper": 24974
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4394,
+                    51.3589
+                ]
+            },
+            "properties": {
+                "city": "Broadstairs",
+                "country": "United Kingdom",
+                "admin_name": "Kent",
+                "capital": "",
+                "population": 24903,
+                "population_proper": 24903
+            }
+        }
+    ]
+}
