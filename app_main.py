@@ -22,7 +22,9 @@ st.set_page_config(
     page_icon = "📊",
     layout="wide")
 
-world_cities = pd.read_csv('/Users/benedictreymann/Desktop/spiced/final_project/data_sets/worldcities.csv')
+url = "https://raw.githubusercontent.com/benR24/final_project/refs/heads/main/worldcities.csv"
+
+world_cities = pd.read_csv(url)
 
 # Navigation Pages
 def main():
