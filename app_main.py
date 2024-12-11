@@ -446,7 +446,8 @@ def about_this_page():
     # Serve Michael Luu's CV
     with col1:
         st.markdown("### Michael Luu's CV")
-        michael_cv_path = "/Users/benedictreymann/Desktop/spiced/final_project/michael_luu_cv.pdf"
+        url_michael = "https://github.com/benR24/final_project/blob/7d1d6a31e205bd06a7af0c04d76ec49d6538c657/app_files/michael_luu_cv.pdf"
+        michael_cv_path = "url_michael"
         if os.path.exists(michael_cv_path):
             # Read the file content
             with open(michael_cv_path, "rb") as file:
@@ -479,10 +480,11 @@ def about_this_page():
         else:
             st.error("Michael Luu's CV is not found.")
 
-    # Serve Ben Reymann's CV
+    # Serve Benedict Reymann's CV
     with col2:
         st.markdown("### Benedict Reymann's CV")
-        ben_cv_path = "/Users/benedictreymann/Desktop/spiced/final_project/ben_reymann_cv.pdf"
+        url_ben = "https://github.com/benR24/final_project/blob/7d1d6a31e205bd06a7af0c04d76ec49d6538c657/app_files/ben_reymann_cv.pdf"
+        ben_cv_path = "url_ben"
         if os.path.exists(ben_cv_path):
             # Read the file content
             with open(ben_cv_path, "rb") as file:
