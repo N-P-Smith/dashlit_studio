@@ -918,6 +918,8 @@ def plot_new_vs_returning_customers(customer_data):
             return 'Returning' if value else 'New'
         else:  # Handle unexpected cases
             return 'New'  # Default to 'New' if value is None or unrecognized
+
+    customer_data['Customer Type'] = customer_data['returning_customer'].apply(classify_customer)
     
     # Calculate counts for new and returning customers
     customer_summary = customer_data['Customer Type'].value_counts().reset_index()
