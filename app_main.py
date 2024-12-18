@@ -46,8 +46,7 @@ def main():
         """)
 
     with col2:
-        st.markdown("""  
-        
+        st.markdown("""
         ### Explore Dashboards:
         --- 
         - Insights into **sales performance**.  
