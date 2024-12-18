@@ -339,15 +339,15 @@ def documentation_page():
         st.write("""**1. Discount Usage Rate**
                 """)
         st.latex(r" \text{Discount Usage Rate} = \frac{\text{Orders with Discounts}}{\text{Total Orders}} \times 100 ")
-        st.write("Plain Text: `(Orders with Discounts ÷ Total Orders) * 100`")
+        st.write("Code-Block: `(Orders with Discounts ÷ Total Orders) * 100`")
 
         st.write("**2. Refund Rate**")
         st.latex(r" \text{Refund Rate} = \frac{\text{Refunded Orders}}{\text{Total Orders}} \times 100 ")
-        st.write("Plain Text: `(Refunded Orders ÷ Total Orders) * 100`")
+        st.write("Code-Block: `(Refunded Orders ÷ Total Orders) * 100`")
 
         st.write("**3. Retention Rate**")
         st.latex(r" \text{Retention Rate} = \frac{\text{Returning Customers}}{\text{Total Customers}} \times 100 ")
-        st.write("Plain Text: `(Returning Customers ÷ Total Customers) * 100`")
+        st.write("Code-Block: `(Returning Customers ÷ Total Customers) * 100`")
 
         st.markdown("""
         ---
