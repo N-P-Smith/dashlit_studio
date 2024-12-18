@@ -575,15 +575,6 @@ def about_this_page():
         </div>
         """, unsafe_allow_html=True)
 
-    ## Project Goals
-    st.markdown("""
-    ## Project Goals ##
-    ---            
-    - Develop a beginner-friendly tool for data analysis without requiring costly licenses.
-    - Provide insights into sales performance based on simple generic sales data exports, which are available as CSV files.
-    - Demonstrate advanced data analytics & dashboarding skills acquired at Spiced Academy.
-    """)
-
     # CV Section
     st.markdown("""
     ## Our CVs & Contact
