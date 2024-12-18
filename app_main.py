@@ -28,28 +28,35 @@ world_countries = pd.read_csv(url_countries)
 
 # Defintiion of the Navigation Pages
 def main():
-    st.title(":fire: Dashlit Studio")
-    st.write("Welcome to Dashlit Studio!")
-    st.write("Use the navigation options above to explore the app.")
+    st.title("Welcome to Dashlit Studio! 🔥 ")
 
-    st.markdown(
-        """
-        ---
-        # 🔧 Why Are We Building This Dashboard?
+    # Add a horizontal separator below the title
+    st.markdown("---")
 
-        ### **Empowering SMEs and Aspiring Data Analysts**
+    col1, col2 = st.columns(2)
 
-        Small and medium-sized enterprises (SMEs) and beginner data analysts often lack access to expensive BI tools. This dashboard bridges that gap by offering:
+    with col1:
+        st.markdown("""
+        Dashlit Studio is a **Streamlit-hosted web tool** designed to simplify your first steps into  
+        **Data Analysis** and **Business Intelligence**.
 
-        - 📊 **Accessibility:** A simple, cost-effective tool for meaningful data insights.  
-        - 💡 **Actionable Insights:** Transform raw sales data into visual, actionable trends.  
-        - 🧠 **Empowered Decisions:** Enable smarter choices on sales, customer behavior, and regional performance.
+        ### What You Can Do:
+        - Upload your **sales and customer data** as CSV files.  
+        - Gain valuable insights from pre-built, interactive visualizations.  
+        """)
 
-        ### **For Beginners, By Analysts**
-        This project is designed to:
-        - 🔧 Help beginner analysts start in environments without BI tools.  
-        - 🌟 Provide SMEs with data-driven decision-making capabilities using just Python and CSV files.
-        ---
+    with col2:
+        st.markdown("""  
+        ### Explore Dashboards:
+        - Insights into **sales performance**.  
+        - Trends in **customer behavior**.  
+        - Analysis of **regional sales**.  
+
+        Dashlit Studio is built on the principles of:
+        - **Accessible Data Analysis**  
+        - **Open-Source Collaboration**  
+
+        Take your first step in transforming raw data into actionable insights with ease! 🚀  
         """)
 
     ### Intro Text
