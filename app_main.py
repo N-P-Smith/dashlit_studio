@@ -286,17 +286,14 @@ def documentation_page():
         st.markdown("""
         ### 📊 Aggregation
         **`sum`**  
-        Purpose: Calculate totals such as:  
+        Calculate totals such as:  
         - Total revenue (e.g., `product_revenue`)  
         - Total sales  
         - Total orders  
-        - Total customers  
-        **Example Visualizations**:  
-        - Total Sales Revenue by Month  
-        - Top-Selling Products  
+        - Total customers 
 
         **`count`**  
-        Purpose: Count occurrences such as:  
+        Count occurrences such as:  
         - Number of orders  
         - Number of customers  
         - Frequency of discount codes  
@@ -310,7 +307,7 @@ def documentation_page():
         st.markdown("""
         ### 🗂️ Binning & Group Operations
         **`cut`**  
-        Purpose: Categorize numeric data into defined ranges, such as:  
+        Categorize numeric data into defined ranges, such as:  
         - Spending levels (e.g., Low, Medium, High)  
         - Order frequency segments (e.g., 1-5 Orders, 5+ Orders)  
         **Example Visualizations**:  
@@ -318,7 +315,7 @@ def documentation_page():
         - Order Frequency Segmentation  
 
         **`groupby`**  
-        Purpose: Group data for aggregation and analysis by:  
+        Group data for aggregation and analysis by:  
         - Time periods (e.g., year, month, quarter)  
         - Categories (e.g., product, region, customer type)  
         **Example Visualizations**:  
@@ -331,13 +328,13 @@ def documentation_page():
         st.markdown("""
         ### 📈 Percentage & Mean Calculations
         **`pct_change`**  
-        Purpose: Compute growth rates over time:  
+        Compute growth rates over time:  
         - Monthly sales growth rates  
         **Example Visualizations**:  
         - Monthly Sales Growth Rate  
 
         **Custom Ratios**  
-        Purpose: Calculate specific metrics such as:
+        Calculate specific metrics such as:
         """)
 
         # LaTeX and Plain Text for Custom Ratios
@@ -358,7 +355,7 @@ def documentation_page():
 
         st.markdown("""
         **`mean`**  
-        Purpose: Compute averages like:  
+        Compute averages like:  
         - Average Order Value (AOV)  
         - Average daily/hourly sales  
         **Example Visualizations**:  
