@@ -164,7 +164,7 @@ def documentation_page():
 
     ---
     """)
-    st.markdown("### What You Need.")
+    st.markdown("### What you need.")
     st.markdown(""" In order to get started you need two CSV files containing your sales and customer data.  
     In the documentation below you can find information about the required columns and their data type. 
     """)
@@ -211,7 +211,7 @@ def documentation_page():
 
     st.markdown("""
     ---
-    ## Instructions
+    ## General Instructions
 
     1. Ensure your data adheres to the required column structure and types as listed above.
     2. Upload the **two CSV files** using the file upload options in the sidebar or interface on the Sales Data Analyzer Page.
