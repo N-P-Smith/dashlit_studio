@@ -91,8 +91,8 @@ def main():
                 fontColor: '#ffffff',           /* White font for text and legend */
                 pieLegendTextColor: '#ffffff',  /* White font for legend text */
                 background: '#1a1a1a',          /* Dark background to match your theme */
-                pie1: ['#ff7f0e', '#1f77b4'],   /* Colors for SME chart slices */
-                pie2: ['#ff7f0e', '#1f77b4']    /* Colors for Large Enterprise chart slices */
+                pie1: ['#e74c3c', '#27ae60'],   /* Bright red and green for SME chart slices */
+                pie2: ['#e74c3c', '#3498db']    /* Bright red and blue for Large Enterprise chart slices */
             }
         });
     </script>
