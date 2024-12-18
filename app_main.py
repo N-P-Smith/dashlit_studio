@@ -165,7 +165,7 @@ def documentation_page():
     """)
     st.markdown("""
     ---
-    ## General Instructions
+    ### General Instructions
 
     1. Ensure your data adheres to the required column structure and types as listed above.
     2. Upload the **two CSV files** using the file upload options in the sidebar or interface on the Sales Data Analyzer Page.
