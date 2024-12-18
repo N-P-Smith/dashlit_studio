@@ -910,8 +910,14 @@ def plot_new_vs_returning_customers(customer_data):
     """
     Plots the proportion of new vs. returning customers based on the 'returning_customer' column.
     """
-    # Map 'yes' and 'no' to 'Returning' and 'New'
-    customer_data['Customer Type'] = customer_data['returning_customer'].apply(lambda x: 'Returning' if x.lower() == 'yes' else 'New')
+    # Normalize 'returning_customer' to 'Returning' or 'New'
+    def classify_customer(value):
+        if isinstance(value, str):  # Handle string inputs
+            return 'Returning' if value.lower() == 'yes' else 'New'
+        elif isinstance(value, bool):  # Handle boolean inputs
+            return 'Returning' if value else 'New'
+        else:  # Handle unexpected cases
+            return 'New'  # Default to 'New' if value is None or unrecognized
     
     # Calculate counts for new and returning customers
     customer_summary = customer_data['Customer Type'].value_counts().reset_index()
