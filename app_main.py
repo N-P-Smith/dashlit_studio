@@ -111,7 +111,7 @@ def main():
         </div>
     </div>
     """
-st.components.v1.html(adoption_rate_BI, height=500)
+    st.components.v1.html(adoption_rate_BI, height=500)
 
 
     st.markdown("""
