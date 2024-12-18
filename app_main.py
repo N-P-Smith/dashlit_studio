@@ -94,27 +94,20 @@ def main():
             }
         });
     </script>
-    <div style="display: flex; justify-content: space-around; align-items: center;">
-        <!-- SMEs Pie Chart -->
-        <div class="mermaid" style="width: 45%;">
-            pie
-            "SMEs Without BI Tools" : 78:::sameColor
-            "SMEs With BI Tools" : 22
-        </div>
-        <!-- Large Enterprises Pie Chart -->
-        <div class="mermaid" style="width: 45%;">
-            pie
-            "Large Enterprises Without BI Tools" : 20:::sameColor
-            "Large Enterprises With BI Tools" : 80
-        </div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <!-- SMEs Pie Chart -->
+    <div class="mermaid" style="width: 45%;">
+        pie
+        "SMEs Without BI Tools" : 78
+        "SMEs With BI Tools" : 22
     </div>
-    <style>
-    .mermaid .sameColor {
-        fill: #ff7f0e;
-        stroke: #ffffff;
-        stroke-width: 1px;
-    }
-    </style>
+    <!-- Large Enterprises Pie Chart -->
+    <div class="mermaid" style="width: 45%;">
+        pie
+        "Large Enterprises Without BI Tools" : 20
+        "Large Enterprises With BI Tools" : 80
+    </div>
+</div>
     """
     st.components.v1.html(adoption_rate_BI, height=500)
 
