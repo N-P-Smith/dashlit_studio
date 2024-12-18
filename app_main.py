@@ -343,6 +343,7 @@ def documentation_page():
         st.write("Plain Text: `(Returning Customers ÷ Total Customers) * 100`")
 
         st.markdown("""
+        ---
         **`mean`**  
         Compute averages like:  
         - Average Order Value (AOV)  
