@@ -418,7 +418,7 @@ def data_analyzer_page():
             # Dropdown menu for analysis
             analysis_menu = st.sidebar.selectbox(
                 "Choose Analysis",
-                ["Sales Analysis", "Product Analysis", "Regional Analysis"]
+                ["Sales Analysis", "Product Analysis", "Demographic Analysis"]
             )
 
             # Helper function to safely plot charts
@@ -453,8 +453,8 @@ def data_analyzer_page():
                 safe_plot(segment_by_order_frequency, st.session_state.customer_data)
 
             # Regional Analysis
-            elif analysis_menu == "Regional Analysis":
-                st.subheader("Regional Analysis")
+            elif analysis_menu == "Demographic Analysis":
+                st.subheader("Demographic Analysis")
                 safe_plot(plot_sales_by_region, st.session_state.sales_data)
                 safe_plot(plot_region_sales_growth, st.session_state.sales_data)
                 safe_plot(segment_by_location, st.session_state.customer_data)
