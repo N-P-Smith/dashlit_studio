@@ -90,19 +90,11 @@ def main():
                 fontSize: '16px',               /* Optional: Adjust font size */
                 fontColor: '#ffffff',           /* White font for text and legend */
                 pieLegendTextColor: '#ffffff',  /* White font for legend text */
-                background: '#1a1a1a',          /* Dark background to match your theme */
-                pie1: ['#e74c3cFF', '#27ae60FF'], /* Bright red and green with 0 transparency */
-                pie2: ['#e74c3cFF', '#3498dbFF']  /* Bright red and blue with 0 transparency */
+                pie1: ['#FF5733', '#33FF57'],   /* Bright solid red and green for SME chart slices */
+                pie2: ['#FF5733', '#3357FF']    /* Bright solid red and blue for Large Enterprise chart slices */
             }
         });
     </script>
-<style>
-    .mermaid {
-        background-color: #1a1a1a !important; /* Match the dark theme */
-        border-radius: 10px; /* Optional: Add rounded corners */
-        padding: 10px; /* Optional: Add padding for better spacing */
-    }
-</style>
     <div style="display: flex; justify-content: space-around; align-items: center;">
         <!-- SMEs Pie Chart -->
         <div class="mermaid" style="width: 45%;">
