@@ -15,7 +15,7 @@ from definition import plot_region_sales_growth, segment_by_location, plot_new_v
 ###
 st.set_page_config(
     page_title= "Sales Data Analyzer",
-    page_icon = "📊",
+    page_icon = "🔥",
     layout="wide")
 
 url_cities = "https://raw.githubusercontent.com/benR24/dashlit_studio/refs/heads/main/app_files/worldcities.csv"
