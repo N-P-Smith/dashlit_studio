@@ -3,7 +3,6 @@
 import pandas as pd
 import plotly.express as px
 import requests
-from region import region_mapping
 import plotly.graph_objects as go
 import streamlit as st
 
