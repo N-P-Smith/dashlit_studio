@@ -296,10 +296,7 @@ def documentation_page():
         Count occurrences such as:  
         - Number of orders  
         - Number of customers  
-        - Frequency of discount codes  
-        **Example Visualizations**:  
-        - Total Orders by Quarter  
-        - Top Discounts  
+        - Frequency of discount codes    
         """)
 
     # Second Column: Binning and Group Operations
@@ -310,17 +307,11 @@ def documentation_page():
         Categorize numeric data into defined ranges, such as:  
         - Spending levels (e.g., Low, Medium, High)  
         - Order frequency segments (e.g., 1-5 Orders, 5+ Orders)  
-        **Example Visualizations**:  
-        - Customer Segmentation by Spend Level  
-        - Order Frequency Segmentation  
 
         **`groupby`**  
         Group data for aggregation and analysis by:  
         - Time periods (e.g., year, month, quarter)  
         - Categories (e.g., product, region, customer type)  
-        **Example Visualizations**:  
-        - Total Sales by Quarter  
-        - Sales by Region  
         """)
 
     # Third Column: Percentage and Mean Calculations
@@ -330,8 +321,6 @@ def documentation_page():
         **`pct_change`**  
         Compute growth rates over time:  
         - Monthly sales growth rates  
-        **Example Visualizations**:  
-        - Monthly Sales Growth Rate  
 
         **Custom Ratios**  
         Calculate specific metrics such as:
@@ -358,9 +347,6 @@ def documentation_page():
         Compute averages like:  
         - Average Order Value (AOV)  
         - Average daily/hourly sales  
-        **Example Visualizations**:  
-        - AOV by Month  
-        - Daily and Hourly Sales Trends  
         """)
 
 
