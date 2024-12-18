@@ -17,15 +17,9 @@ st.set_page_config(
     page_title="Sales Data Analyzer",
     page_icon="🔥",
     layout="wide",
-    initial_sidebar_state="expanded",
-    theme={
-        "primaryColor": "#1f77b4",
-        "backgroundColor": "#1a1a1a",
-        "secondaryBackgroundColor": "#262730",
-        "textColor": "#ffffff",
-        "font": "sans-serif"
-        }
-    )
+    initial_sidebar_state="expanded"
+)
+
 
 
 url_cities = "https://raw.githubusercontent.com/benR24/dashlit_studio/refs/heads/main/app_files/worldcities.csv"
