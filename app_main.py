@@ -28,8 +28,8 @@ world_countries = pd.read_csv(url_countries)
 
 # Defintiion of the Navigation Pages
 def main():
-    st.title("Sales Data Analysis Dashboard")
-    st.write("Welcome to the Sales Data Analysis Dashboard!")
+    st.title("Dashlit Studio")
+    st.write("Welcome to Dashlit Studio!")
     st.write("Use the navigation options above to explore the app.")
 
     st.markdown(
