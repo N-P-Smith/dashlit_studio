@@ -703,7 +703,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://i.postimg.cc/tT2CxzBQ/bitmap2.png");
+        background-image: url("https://i.postimg.cc/sDtf7x4X/bitmap2.png");
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
