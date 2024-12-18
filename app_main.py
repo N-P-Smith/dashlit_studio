@@ -100,16 +100,21 @@ def main():
             pie
             "SMEs Without BI Tools" : 78:::sameColor
             "SMEs With BI Tools" : 22
-            classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
         </div>
         <!-- Large Enterprises Pie Chart -->
         <div class="mermaid" style="width: 45%;">
             pie
             "Large Enterprises Without BI Tools" : 20:::sameColor
             "Large Enterprises With BI Tools" : 80
-            classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
         </div>
     </div>
+    <style>
+    .mermaid .sameColor {
+        fill: #ff7f0e;
+        stroke: #ffffff;
+        stroke-width: 1px;
+    }
+    </style>
     """
     st.components.v1.html(adoption_rate_BI, height=500)
 
