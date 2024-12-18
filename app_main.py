@@ -107,7 +107,12 @@ def main():
         color_discrete_map=color_discrete_map
     )
     fig_smes.update_traces(textinfo='percent+label')
-    fig_smes.update_layout(template='plotly_dark', title_x=0.5)
+    fig_smes.update_layout(
+    template='plotly_dark',
+    title_x=0.5,
+    plot_bgcolor='rgba(0,0,0,0)',  # Transparent plot background
+    paper_bgcolor='rgba(0,0,0,0)'  # Transparent paper background
+)
 
     # Large Enterprises Pie Chart
     fig_enterprises = px.pie(
@@ -119,7 +124,12 @@ def main():
         color_discrete_map=color_discrete_map
     )
     fig_enterprises.update_traces(textinfo='percent+label')
-    fig_enterprises.update_layout(template='plotly_dark', title_x=0.5)
+    fig_enterprises.update_layout(
+    template='plotly_dark',
+    title_x=0.5,
+    plot_bgcolor='rgba(0,0,0,0)',  # Transparent plot background
+    paper_bgcolor='rgba(0,0,0,0)'  # Transparent paper background
+)
 
     # Display the charts side by side
     st.write("The following pie charts illustrate the adoption rates of Business Intelligence (BI) tools:")
