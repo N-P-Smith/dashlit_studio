@@ -90,26 +90,29 @@ def main():
                 fontSize: '16px',               /* Optional: Adjust font size */
                 fontColor: '#ffffff',           /* White font for text and legend */
                 pieLegendTextColor: '#ffffff',  /* White font for legend text */
-                background: '#1a1a1a'           /* Dark background to match your theme */
+                background: '#1a1a1a',          /* Dark background to match your theme */
+                pie1: ['#ff7f0e', '#1f77b4'],   /* Colors for SME chart slices */
+                pie2: ['#ff7f0e', '#1f77b4']    /* Colors for Large Enterprise chart slices */
             }
         });
     </script>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <!-- SMEs Pie Chart -->
-    <div class="mermaid" style="width: 45%;">
-        pie
-        "SMEs Without BI Tools" : 78
-        "SMEs With BI Tools" : 22
+    <div style="display: flex; justify-content: space-around; align-items: center;">
+        <!-- SMEs Pie Chart -->
+        <div class="mermaid" style="width: 45%;">
+            pie
+            "SMEs Without BI Tools" : 78
+            "SMEs With BI Tools" : 22
+        </div>
+        <!-- Large Enterprises Pie Chart -->
+        <div class="mermaid" style="width: 45%;">
+            pie
+            "Large Enterprises Without BI Tools" : 20
+            "Large Enterprises With BI Tools" : 80
+        </div>
     </div>
-    <!-- Large Enterprises Pie Chart -->
-    <div class="mermaid" style="width: 45%;">
-        pie
-        "Large Enterprises Without BI Tools" : 20
-        "Large Enterprises With BI Tools" : 80
-    </div>
-</div>
     """
-    st.components.v1.html(adoption_rate_BI, height=500)
+st.components.v1.html(adoption_rate_BI, height=500)
+
 
     st.markdown("""
     **NOTE:** 
