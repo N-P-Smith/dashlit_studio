@@ -96,6 +96,13 @@ def main():
             }
         });
     </script>
+<style>
+    .mermaid {
+        background-color: #1a1a1a !important; /* Match the dark theme */
+        border-radius: 10px; /* Optional: Add rounded corners */
+        padding: 10px; /* Optional: Add padding for better spacing */
+    }
+</style>
     <div style="display: flex; justify-content: space-around; align-items: center;">
         <!-- SMEs Pie Chart -->
         <div class="mermaid" style="width: 45%;">
