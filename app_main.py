@@ -157,7 +157,7 @@ def main():
 def documentation_page():
     st.title("Documentation and Instructions")
     st.markdown("""
-    ## What it does.
+    ### What it does.
 
     This dashboard analyzes sales data to provide insights into trends, customer behavior, and revenue growth.
 
