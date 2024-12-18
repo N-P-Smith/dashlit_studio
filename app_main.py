@@ -12,11 +12,21 @@ from definition import plot_top_selling_products, plot_combined_product_sales_wi
 from definition import segment_by_order_frequency, visualize_customer_distribution_city, plot_customer_retention_rate_as_gauge, plot_sales_by_region
 from definition import plot_region_sales_growth, segment_by_location, plot_new_vs_returning_customers, plot_average_daily_and_hourly_sales_last_90_days, plot_top_discounts
 
-###
+###Page Setup
 st.set_page_config(
-    page_title= "Sales Data Analyzer",
-    page_icon = "🔥",
-    layout="wide")
+    page_title="Sales Data Analyzer",
+    page_icon="🔥",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    theme={
+        "primaryColor": "#1f77b4",
+        "backgroundColor": "#1a1a1a",
+        "secondaryBackgroundColor": "#262730",
+        "textColor": "#ffffff",
+        "font": "sans-serif"
+    }
+)
+
 
 url_cities = "https://raw.githubusercontent.com/benR24/dashlit_studio/refs/heads/main/app_files/worldcities.csv"
 
