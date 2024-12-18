@@ -493,7 +493,7 @@ def about_this_page():
 
     with col1: 
         st.markdown("""
-        ## 💻 Explore the Code on GitHub   
+        ## Explore the Code on GitHub 💻 
         ---
         Curious to see how it works under the hood?  
         - View the **full source code** and documentation.  
@@ -512,7 +512,7 @@ def about_this_page():
 
     with col2:
         st.markdown("""
-        ## 🌍 Open Source Project   
+        ## Open Source Project 🌍 
         ---
         This project is proudly **open source** under the [MIT License](https://github.com/benR24/final_project/blob/f1969677e5bfc897170871f07288afae5bad5ca5/LICENSE).
 
