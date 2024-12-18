@@ -1,7 +1,8 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import requests
-import os
-import base64
-import plotly.graph_objects as go
+streamlit
+pandas
+plotly
+plotly.express
+requests
+os
+base64
+plotly.graph_objects
