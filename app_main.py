@@ -218,6 +218,7 @@ def documentation_page():
     st.markdown("""
     > **Note**: If you do not have data for one or more of the required columns, please still include these columns in your CSV file.  
     > Leave the rows empty for those columns if necessary. This ensures the proper functionality of the Sales Data Analyzer.
+    ---
     """)
 
     st.markdown("""
