@@ -94,24 +94,25 @@ def main():
             }
         });
     </script>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <!-- SMEs Pie Chart -->
-    <div class="mermaid" style="width: 45%;">
-        pie
-        "SMEs Without BI Tools" : 78:::sameColor
-        "SMEs With BI Tools" : 22
-        classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
+    <div style="display: flex; justify-content: space-around; align-items: center;">
+        <!-- SMEs Pie Chart -->
+        <div class="mermaid" style="width: 45%;">
+            pie
+            "SMEs Without BI Tools" : 78:::sameColor
+            "SMEs With BI Tools" : 22
+            classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
+        </div>
+        <!-- Large Enterprises Pie Chart -->
+        <div class="mermaid" style="width: 45%;">
+            pie
+            "Large Enterprises Without BI Tools" : 20:::sameColor
+            "Large Enterprises With BI Tools" : 80
+            classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
+        </div>
     </div>
-    <!-- Large Enterprises Pie Chart -->
-    <div class="mermaid" style="width: 45%;">
-        pie
-        "Large Enterprises Without BI Tools" : 20:::sameColor
-        "Large Enterprises With BI Tools" : 80
-        classDef sameColor fill:#ff7f0e,stroke:#ffffff,stroke-width:1px;
-    </div>
-</div>
     """
     st.components.v1.html(adoption_rate_BI, height=500)
+
     st.markdown("""
     **NOTE:** 
     > Small and medium-sized enterprises (SMEs): Smaller organisations tend to have lower adoption rates, with 22% of organisations with 250 or fewer employees reporting adoption rates below 20%. 
