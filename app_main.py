@@ -28,7 +28,7 @@ world_countries = pd.read_csv(url_countries)
 
 # Defintiion of the Navigation Pages
 def main():
-    st.title("Welcome to Dashlit Studio! 🔥 ")
+    st.title("Welcome to Dashlit Studio 🔥 ")
 
     # Add a horizontal separator below the title
     st.markdown("---")
