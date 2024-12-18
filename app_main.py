@@ -28,7 +28,7 @@ world_countries = pd.read_csv(url_countries)
 
 # Defintiion of the Navigation Pages
 def main():
-    st.title("Dashlit Studio")
+    st.title(":fire: Dashlit Studio")
     st.write("Welcome to Dashlit Studio!")
     st.write("Use the navigation options above to explore the app.")
 
