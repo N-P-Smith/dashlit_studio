@@ -165,6 +165,17 @@ def documentation_page():
 
     ---
     """)
+    st.markdown("""
+    ---
+    ## General Instructions
+
+    1. Ensure your data adheres to the required column structure and types as listed above.
+    2. Upload the **two CSV files** using the file upload options in the sidebar or interface on the Sales Data Analyzer Page.
+    3. Select the type of analysis you want from the drop down menus - sales, product or regional analysis.
+
+    ---
+    """)
+    
     st.markdown("### What you need.")
     st.markdown(""" In order to get started you need two CSV files containing your sales and customer data.  
     In the documentation below you can find information about the required columns and their data type. 
@@ -207,18 +218,6 @@ def documentation_page():
     st.markdown("""
     > **Note**: If you do not have data for one or more of the required columns, please still include these columns in your CSV file.  
     > Leave the rows empty for those columns if necessary. This ensures the proper functionality of the Sales Data Analyzer.
-    """)
-
-
-    st.markdown("""
-    ---
-    ## General Instructions
-
-    1. Ensure your data adheres to the required column structure and types as listed above.
-    2. Upload the **two CSV files** using the file upload options in the sidebar or interface on the Sales Data Analyzer Page.
-    3. Select the type of analysis you want from the drop down menus - sales, product or regional analysis.
-
-    ---
     """)
 
     st.markdown("""
