@@ -162,8 +162,6 @@ def documentation_page():
     This dashboard analyzes sales data to provide insights into trends, customer behavior, and revenue growth.
 
     You can input your **sales and customer data** to get a comprehensive analysis and interactive charts which you can also download.
-
-    ---
     """)
     st.markdown("""
     ---
