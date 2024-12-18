@@ -184,7 +184,7 @@ def documentation_page():
         - `discount_amount` (Numeric) - The total discount applied to the order.
         - `refund_amount` (Numeric) - The total amount refunded for the order.
         - `quantity_sold` (Numeric) - The quantity of products sold in the order.
-        - `product_revenue` (Numeric) - Revenue generated from the product(s) in the order.
+        - `total_sales_revenue` (Numeric) - Revenue generated from the line-item product.
         - `location` (String) - The city or country(iso2) where the order was placed (e.g., 'London', 'Berlin', 'New York' or 'GB', 'US', 'DE').
         - `discount_code` (String) - The discount code applied to the order (if any).
         """)
