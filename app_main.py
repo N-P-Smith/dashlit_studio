@@ -105,8 +105,8 @@ def main():
         <!-- Large Enterprises Pie Chart -->
         <div class="mermaid" style="width: 45%;">
             pie
-            "Large Enterprises With BI Tools" : 80
             "Large Enterprises Without BI Tools" : 20
+            "Large Enterprises With BI Tools" : 80
         </div>
     </div>
     """
