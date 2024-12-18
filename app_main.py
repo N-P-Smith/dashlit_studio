@@ -191,7 +191,7 @@ def documentation_page():
         - `total_spent` (Numeric) - The total amount spent by the customer.
         - `location` (String) - The city or region where the customer resides.
         - `iso2` (String) - ISO country code for the customer's location.
-        - `returning_customer` (String) - Indicates whether the customer is a returning customer (`yes` or `no`).
+        - `returning_customer` (String or Boolean) - Indicates whether the customer is a returning customer (`yes` or `no`, 'true' or 'false').
         """)
 
     ## Add the note below the descriptions of the required columns
