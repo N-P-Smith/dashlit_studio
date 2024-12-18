@@ -336,8 +336,7 @@ def documentation_page():
 
         # LaTeX and Plain Text for Custom Ratios
 
-        st.write("""**1. Discount Usage Rate**  
-                 ---
+        st.write("""**1. Discount Usage Rate**
                 """)
         st.latex(r" \text{Discount Usage Rate} = \frac{\text{Orders with Discounts}}{\text{Total Orders}} \times 100 ")
         st.write("Plain Text: `(Orders with Discounts ÷ Total Orders) * 100`")
