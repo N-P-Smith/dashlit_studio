@@ -80,39 +80,56 @@ def main():
         "The following pie chart illustrates the adoption rates of Business Intelligence (BI) tools in "
         "Small and Medium Enterprises (SMEs) versus Large Enterprises."
     )
-    adoption_rate_BI = """
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script>
-        mermaid.initialize({
-            theme: 'base',
-            themeVariables: {
-                fontFamily: 'Arial, sans-serif', /* Optional: Change font family */
-                fontSize: '16px',               /* Optional: Adjust font size */
-                fontColor: '#ffffff',           /* White font for text and legend */
-                pieLegendTextColor: '#ffffff',  /* White font for legend text */
-                pie1: ['#FF5733', '#33FF57'],   /* Bright solid red and green for SME chart slices */
-                pie2: ['#FF5733', '#3357FF']    /* Bright solid red and blue for Large Enterprise chart slices */
-            }
-        });
-    </script>
-    <div style="display: flex; justify-content: space-around; align-items: center;">
-        <!-- SMEs Pie Chart -->
-        <div class="mermaid" style="width: 45%;">
-            pie
-            "SMEs Without BI Tools" : 78
-            "SMEs With BI Tools" : 22
-        </div>
-        <!-- Large Enterprises Pie Chart -->
-        <div class="mermaid" style="width: 45%;">
-            pie
-            "Large Enterprises Without BI Tools" : 20
-            "Large Enterprises With BI Tools" : 80
-        </div>
-    </div>
-    """
-    st.components.v1.html(adoption_rate_BI, height=500)
+    # Replace Mermaid charts with Plotly pie charts
+    # Data for SMEs and Large Enterprises
+    data_smes = pd.DataFrame({
+        "Category": ["Without BI Tools", "With BI Tools"],
+        "Values": [78, 22]
+    })
+    data_enterprises = pd.DataFrame({
+        "Category": ["Without BI Tools", "With BI Tools"],
+        "Values": [20, 80]
+    })
 
+    # Define consistent colors for both charts
+    color_discrete_map = {
+        "Without BI Tools": "#FF5733",  # Bright Red-Orange
+        "With BI Tools": "#33FF57"     # Bright Green
+    }
 
+    # SMEs Pie Chart
+    fig_smes = px.pie(
+        data_smes,
+        names="Category",
+        values="Values",
+        title="SMEs BI Tools Adoption",
+        color="Category",
+        color_discrete_map=color_discrete_map
+    )
+    fig_smes.update_traces(textinfo='percent+label')
+    fig_smes.update_layout(template='plotly_dark', title_x=0.5)
+
+    # Large Enterprises Pie Chart
+    fig_enterprises = px.pie(
+        data_enterprises,
+        names="Category",
+        values="Values",
+        title="Large Enterprises BI Tools Adoption",
+        color="Category",
+        color_discrete_map=color_discrete_map
+    )
+    fig_enterprises.update_traces(textinfo='percent+label')
+    fig_enterprises.update_layout(template='plotly_dark', title_x=0.5)
+
+    # Display the charts side by side
+    st.write("The following pie charts illustrate the adoption rates of Business Intelligence (BI) tools:")
+    col1, col2 = st.columns(2)
+    with col1:
+        st.plotly_chart(fig_smes, use_container_width=True)
+    with col2:
+        st.plotly_chart(fig_enterprises, use_container_width=True)
+
+    # Retain the existing note and additional context
     st.markdown("""
     **NOTE:** 
     > Small and medium-sized enterprises (SMEs): Smaller organisations tend to have lower adoption rates, with 22% of organisations with 250 or fewer employees reporting adoption rates below 20%. 
