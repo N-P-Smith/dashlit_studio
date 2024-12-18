@@ -24,8 +24,8 @@ st.set_page_config(
         "secondaryBackgroundColor": "#262730",
         "textColor": "#ffffff",
         "font": "sans-serif"
-    }
-)
+        }
+    )
 
 
 url_cities = "https://raw.githubusercontent.com/benR24/dashlit_studio/refs/heads/main/app_files/worldcities.csv"
