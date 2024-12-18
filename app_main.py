@@ -91,8 +91,8 @@ def main():
                 fontColor: '#ffffff',           /* White font for text and legend */
                 pieLegendTextColor: '#ffffff',  /* White font for legend text */
                 background: '#1a1a1a',          /* Dark background to match your theme */
-                pie1: ['#e74c3cFF', '#27ae60CC'], /* Bright red and green, reduced transparency */
-                pie2: ['#e74c3cFF', '#3498dbCC'], /* Bright red and blue, reduced transparency */
+                 pie1: ['#e74c3cE6', '#27ae60E6'], /* Bright red and green with 20% transparency */
+                pie2: ['#e74c3cE6', '#3498dbE6']  /* Bright red and blue with 20% transparency */
             }
         });
     </script>
