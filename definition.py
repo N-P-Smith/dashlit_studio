@@ -616,7 +616,7 @@ def segment_by_spend_level(customer_data):
         yaxis_type='log', 
         yaxis_title='Customer Count (Log Scale)'
     )
-    st.caption("💰 Segments customers into spending levels for deeper analysis.")
+    st.caption("💰 Groups customers into spending levels.")
     return fig
 
 def plot_refund_rate_with_threshold_label(sales_data):
