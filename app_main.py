@@ -167,7 +167,7 @@ def main():
 
         ## ✨ **What’s Next?**
 
-        Explore the dashboard to:
+        Explore Dashlit Studio to:
         - 📈 **Analyze sales trends** by product, region, and timeframe.  
         - 🔍 **Understand customer behavior** to optimize services and campaigns.  
 
