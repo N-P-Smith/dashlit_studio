@@ -509,7 +509,9 @@ def about_this_page():
 
     The goal of this project was to design a solution for **aspiring data analysts** who may join a company where licenses for **BI tools** are not yet available. 
 
-    By utilizing **sales and customer data stored as CSV files**, along with a library of **pre-built graph definitions** for the most common sales, customer, and regional analyses, this project streamlines the process of generating meaningful results. Analysts can focus on decision-making rather than repeatedly creating the same visualizations, making data-driven insights more accessible and efficient.
+    By utilizing **sales and customer data stored as CSV files**, along with a library of **pre-built graph definitions** for the most common sales, customer, and regional analyses, this project streamlines the process of generating meaningful results.  
+      
+    Analysts can focus on decision-making rather than repeatedly creating the same visualizations, making data-driven insights more accessible and efficient.
     """)
 
 
