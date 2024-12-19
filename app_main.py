@@ -68,7 +68,7 @@ def main():
     st.subheader("🚀 Business Intelligence Adoption Rates")
     st.markdown(
         """
-        **Why SMEs Need BI Tools More Than Ever**
+        **Why Businesses Need BI Tools More Than Ever**
 
         Businesses often face *unique challenges* in their decision-making processes:
         - 📊 **Lack of actionable data insights**.
