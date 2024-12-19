@@ -674,6 +674,10 @@ def plot_fulfilled_order_rate_all_orders(sales_data):
     Plots the Fulfilled Order Rate as a gauge chart for all orders.
     Formula: (Fulfilled Orders / Total Orders) x 100
     """
+    # Check if 'fulfillment_status' is entirely null or if there are no orders
+    if sales_data['fulfillment_status'].isnull().all() or sales_data['order_id'].nunique() == 0:
+        st.warning("No data available to plot the Fulfilled Order Rate. Skipping this chart.")
+        return None  # Skip plotting if no valid data is available
     # Total orders
     total_orders = sales_data['order_id'].nunique()
     
