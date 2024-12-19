@@ -135,7 +135,6 @@ def main():
 )
 
     # Display the charts side by side
-    st.write("The following pie charts illustrate the adoption rates of Business Intelligence (BI) tools:")
     col1, col2 = st.columns(2)
     with col1:
         st.plotly_chart(fig_smes, use_container_width=True)
