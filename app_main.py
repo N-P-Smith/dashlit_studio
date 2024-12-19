@@ -157,7 +157,7 @@ def main():
 
         This dashboard fills the gap by providing a streamlined, accessible platform for analysing and visualising sales data, enabling current analysts and SMEs to experience the power of BI first-hand.
 
-        Now that the stage is set, let's dive into what lies ahead!
+        Now that you understand why we're building this tool, it's time to explore the documentation and get hands-on with Dashlit Studio!
         """
     )
 
