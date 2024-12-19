@@ -193,7 +193,7 @@ def documentation_page():
     st.markdown("""
     ### What it does.
 
-    This dashboard analyzes sales data to provide insights into trends, customer behavior, and revenue growth.
+    Dashlit Studio analyzes sales data to provide insights into trends, customer behavior, and revenue growth.
 
     You can input your **sales and customer data** to get a comprehensive analysis and interactive charts which you can also download.
     """)
@@ -505,11 +505,11 @@ def about_this_page():
     # About section
     st.markdown("""
     ---
-    This project was created as the **final capstone project** at **Spiced Academy** in **December 2024** by **Michael Luu** and **Benedict Reymann**.
+    This project was created as the **final capstone project** for the **Data Analytics and Engineering Bootcamp** at **Spiced Academy** in **December 2024**, developed by **Michael Luu** and **Benedict Reymann**.
 
-    Our goal was to develop a tool for **aspiring data analysts** who find themselves starting in a new company where tools like **Tableau** or **Metabase** are not yet available. 
+    The goal of this project was to design a solution for **aspiring data analysts** who may join a company where licenses for **BI tools** are not yet available. 
 
-    The project assumes the presence of **sales & customer data as csv files** as a basis for analysis, and it aims to provide insights and decision-making support using tools accessible to everyone.
+    By utilizing **sales and customer data stored as CSV files**, the project aims to deliver meaningful insights and support data-driven decision-making using universally accessible tools.
     """)
 
     col1, col2 = st.columns(2)
