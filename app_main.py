@@ -75,8 +75,7 @@ def main():
         - 🕒 **Time-consuming manual analysis**.
         - 💸 **Lost revenue opportunities due to inefficiencies**.
 
-        Did you know? **Only 22%** of SMEs use BI tools, compared to a whopping **80%** for large enterprises!  
-        (Imagine a cool infographic or pie chart here!)  
+        Did you know? **Only 22%** of SMEs use BI tools, compared to a whopping **80%** for large enterprises!   
         """
     )
     #### Embed Mermaid chart with styled legend for better readability about adoption rate of BI Tools 
