@@ -677,11 +677,13 @@ def plot_fulfilled_order_rate_all_orders(sales_data):
     # Total orders
     total_orders = sales_data['order_id'].nunique()
     
-    # Fulfilled orders (fulfillment_status == 'fulfilled')
-    if sales_data['fulfillment_status'].nunique() == 0:
-    fulfilled_orders = 0
+    # Check for null or empty values in the 'fulfillment_status' column
+    if sales_data['fulfillment_status'].nunique() == 0 or sales_data['fulfillment_status'].isnull().all():
+        fulfilled_orders = 0
     else:
-    fulfilled_orders = sales_data[sales_data['fulfillment_status'].str.lower() == 'fulfilled']['order_id'].nunique()
+        # Fulfilled orders (fulfillment_status == 'fulfilled')
+        fulfilled_orders = sales_data[
+            sales_data['fulfillment_status'].str.lower() == 'fulfilled']['order_id'].nunique()
     
     # Calculate fulfilled order rate
     fulfilled_rate = round((fulfilled_orders / total_orders) * 100, 2) if total_orders > 0 else 0
