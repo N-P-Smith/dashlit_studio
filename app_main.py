@@ -70,7 +70,7 @@ def main():
         """
         **Why SMEs Need BI Tools More Than Ever**
 
-        Small and Medium Enterprises (SMEs) often face *unique challenges* in their decision-making processes:
+        Businesses often face *unique challenges* in their decision-making processes:
         - 📊 **Lack of actionable data insights**.
         - 🕒 **Time-consuming manual analysis**.
         - 💸 **Lost revenue opportunities due to inefficiencies**.
