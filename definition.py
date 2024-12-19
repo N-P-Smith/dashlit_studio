@@ -563,7 +563,7 @@ def plot_combined_product_sales_with_labels(sales_data, top_n=10):
         xaxis=dict(categoryorder='total descending'),
         height=700
     )
-    st.caption("🔄 Comparison of product sales volume and total revenue for top products.")
+    st.caption("🔄 Comparison of product sales volume and total revenue impact for top products.")
     return fig
 
 def segment_by_spend_level(customer_data):
