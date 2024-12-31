@@ -612,10 +612,8 @@ def about_this_page():
 
     # CV Section
     st.markdown("""
-    ## Our CVs & Contact
+    ## Our Contact
     ---
-
-    Below, you can find our professional CVs showcasing our skills, experience, and expertise.
     """)
 
     col1, col2 = st.columns(2)
@@ -640,7 +638,7 @@ def about_this_page():
 
     # Serve Michael Luu's CV
     with col1:
-        st.markdown("### Michael Luu's CV")
+        st.markdown("### Michael Luu")
         linkedin_url = "https://www.linkedin.com/in/michael-luu-17767235/"
         st.markdown(
             f"""
@@ -650,25 +648,8 @@ def about_this_page():
             """,
             unsafe_allow_html=True,
         )
-        st.markdown("**Preview:**")
-        components.html(
-            f"""
-            <iframe src="https://drive.google.com/file/d/1NNo3SIi5w3iskpr-aF-I2Lohp372CJhC/preview" width="100%" height="500" style="border: none;"></iframe>
-            """,
-            height=550,
-        )
-        st.markdown(
-            f"""
-            <a href="https://drive.google.com/file/d/1NNo3SIi5w3iskpr-aF-I2Lohp372CJhC/view?usp=sharing" target="_blank" style="{button_style}">
-            Download Michael Luu's CV
-            </a>
-            """,
-            unsafe_allow_html=True,
-        )
-
-    # Serve Benedict Reymann's CV
     with col2:
-        st.markdown("### Benedict Reymann's CV")
+        st.markdown("### Benedict Reymann")
         linkedin_url = "https://www.linkedin.com/in/benedict-reymann-12bb5b117/"
         st.markdown(
             f"""
@@ -678,22 +659,6 @@ def about_this_page():
             """,
             unsafe_allow_html=True,
         )
-        st.markdown("**Preview:**")
-        components.html(
-            f"""
-            <iframe src="https://drive.google.com/file/d/1ku8UZchQnvP207PjnVlMCzTKeVe5-q2E/preview" width="100%" height="500" style="border: none;"></iframe>
-            """,
-            height=550,
-        )
-        st.markdown(
-            f"""
-            <a href="https://drive.google.com/file/d/1ku8UZchQnvP207PjnVlMCzTKeVe5-q2E/view?usp=sharing" target="_blank" style="{button_style}">
-            Download Benedict Reymann's CV
-            </a>
-            """,
-            unsafe_allow_html=True,
-        )
-    
 
 # Navigation logic
 page = st.radio(
